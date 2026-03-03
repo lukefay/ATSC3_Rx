@@ -1,0 +1,3965 @@
+Channel: 5 
+PTP time:1770847648.4026 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:06:470.44495200 
+Start SLS:2026-02-11 22:06:470.60163000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:06:470.90746100 
+Tuned in:2026-02-11 22:06:470.9096 
+Setting AST: 1770847607.1026 
+Channel: 5 
+PTP time:1770847668.3359 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:07:070.39161300 
+Start SLS:2026-02-11 22:07:070.63312800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+Channel: 5 
+PTP time:1770847850.0158 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:10:090.07338200 
+Start SLS:2026-02-11 22:10:090.20492500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:10:090.39616000 
+Tuned in:2026-02-11 22:10:090.3979 
+Setting AST: 1770847808.7158 
+MimeType:  
+Setting AST: 2026-02-11T22:10:09.3979Z 
+TimeOffset: 0.28423190116882, Original time:1749494742 Updated time: 1749494742.2842
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-11 22:10:090.41198400 
+Channel: 5 
+PTP time:1770847929.4736 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:11:280.53756200 
+Start SLS:2026-02-11 22:11:280.78191400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:11:300.43212100 
+Tuned in:2026-02-11 22:11:300.4344 
+Setting AST: 1770847888.1736 
+Channel: 5 
+PTP time:1770847942.2442 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:11:410.27803900 
+Start SLS:2026-02-11 22:11:410.42879900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:11:410.92324300 
+Tuned in:2026-02-11 22:11:410.9254 
+Setting AST: 1770847900.9442 
+Channel: 5 
+PTP time:1770847994.2672 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:12:330.31659500 
+Start SLS:2026-02-11 22:12:330.53711900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+Channel: 5 
+PTP time:1770848084.3026 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:14:030.35011100 
+Start SLS:2026-02-11 22:14:030.53473000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:14:030.96577000 
+Tuned in:2026-02-11 22:14:030.9687 
+Channel: 5 
+PTP time:1770848188.9343 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:15:470.98447300 
+Start SLS:2026-02-11 22:15:480.16879800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:15:480.44363800 
+Tuned in:2026-02-11 22:15:480.4457 
+Setting AST: 1770848147.6343 
+MimeType:  
+Setting AST: 2026-02-11T22:15:48.4457Z 
+TimeOffset: 0.36574101448059, Original time:1749494742 Updated time: 1749494742.3657
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-11 22:15:480.46281700 
+Channel: 5 
+PTP time:1770848441.1903 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:20:000.25299700 
+Start SLS:2026-02-11 22:20:000.49468800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:20:000.94365800 
+Tuned in:2026-02-11 22:20:000.9462 
+Setting AST: 1770848399.8903 
+MimeType:  
+Setting AST: 2026-02-11T22:20:00.9462Z 
+TimeOffset: 0.109699010849, Original time:1749494742 Updated time: 1749494742.1097
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-11 22:20:000.96465100 
+Channel: 5 
+PTP time:1770848565.075 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:22:040.12254900 
+Start SLS:2026-02-11 22:22:040.31088600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:22:040.95005900 
+Tuned in:2026-02-11 22:22:040.9522 
+Setting AST: 1770848523.775 
+MimeType:  
+Setting AST: 2026-02-11T22:22:04.9522Z 
+TimeOffset: 0.22495102882385, Original time:1749494742 Updated time: 1749494742.225
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-11 22:22:040.96781600 
+Channel: 5 
+PTP time:1770848780.819 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:25:390.88266900 
+Start SLS:2026-02-11 22:25:400.04855000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:25:400.49730600 
+Tuned in:2026-02-11 22:25:400.4998 
+Setting AST: 1770848739.519 
+MimeType:  
+Setting AST: 2026-02-11T22:25:40.4998Z 
+TimeOffset: 0.48101186752319, Original time:1749494742 Updated time: 1749494742.481
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-11 22:25:400.52031100 
+Channel: 5 
+PTP time:1770848832.6077 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-11 22:26:310.66779000 
+Start SLS:2026-02-11 22:26:310.89050000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-11 22:26:320.48944400 
+Tuned in:2026-02-11 22:26:320.4925 
+Setting AST: 1770848791.3077 
+MimeType:  
+Setting AST: 2026-02-11T22:26:32.4925Z 
+TimeOffset: 0.69232106208801, Original time:1749494742 Updated time: 1749494742.6923
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-11 22:26:320.51711000 
+Channel: 5 
+PTP time:1770870090.4098 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:20:540.44069100 
+Start SLS:2026-02-12 04:20:540.71839100 
+Channel: 5 
+PTP time:1770870149.1032 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:21:530.51749000 
+Start SLS:2026-02-12 04:21:530.60655400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:21:540.00059300 
+Tuned in:2026-02-12 04:21:540.002 
+Setting AST: 1770870107.8032 
+MimeType:  
+Setting AST: 2026-02-12T04:21:54.002Z 
+TimeOffset: 6.1968357563019, Original time:1749494742 Updated time: 1749494748.1968
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:21:540.02222500 
+Channel: 5 
+PTP time:1770870251.5229 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:23:360.03317200 
+Start SLS:2026-02-12 04:23:360.14742400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:23:360.47911700 
+Tuned in:2026-02-12 04:23:360.4808 
+Setting AST: 1770870217.8229 
+MimeType:  
+Setting AST: 2026-02-12T04:23:36.4808Z 
+TimeOffset: -1.822949886322, Original time:1749494742 Updated time: 1749494740.1771
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:23:360.49396200 
+Channel: 2 
+PTP time:1770870285.1244 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:24:090.73059700 
+Start SLS:2026-02-12 04:24:090.84199900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:24:100.14819900 
+Tuned in:2026-02-12 04:24:100.1505 
+Setting AST: 1770870251.4244 
+MimeType:  
+Setting AST: 2026-02-12T04:24:10.1505Z 
+TimeOffset: -1.4244115352631, Original time:1749494794 Updated time: 1749494792.5756
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:24:100.16810000 
+Channel: 2 
+PTP time:1770870337.1821 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:25:020.31993400 
+Start SLS:2026-02-12 04:25:020.59069800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:25:030.15721100 
+Tuned in:2026-02-12 04:25:030.1608 
+Setting AST: 1770870303.4821 
+MimeType:  
+Setting AST: 2026-02-12T04:25:03.1608Z 
+TimeOffset: -0.48211240768433, Original time:1749494794 Updated time: 1749494793.5179
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:25:030.18960600 
+Channel: 5 
+PTP time:1770870358.2957 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:25:230.43018200 
+Start SLS:2026-02-12 04:25:230.57190400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:25:230.93999700 
+Tuned in:2026-02-12 04:25:230.9421 
+Setting AST: 1770870324.5957 
+MimeType:  
+Setting AST: 2026-02-12T04:25:23.9421Z 
+TimeOffset: -1.5957124233246, Original time:1749494742 Updated time: 1749494740.4043
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:25:230.95804300 
+Channel: 5 
+PTP time:1770870571.4412 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:28:550.55121100 
+Start SLS:2026-02-12 04:28:550.63997700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:28:560.00344300 
+Tuned in:2026-02-12 04:28:560.0068 
+Setting AST: 1770870537.7412 
+MimeType:  
+Setting AST: 2026-02-12T04:28:56.0068Z 
+TimeOffset: -1.7411546707153, Original time:1749494742 Updated time: 1749494740.2588
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:28:560.02904400 
+Channel: 2 
+PTP time:1770870677.144 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:30:410.92942800 
+Start SLS:2026-02-12 04:30:420.12119000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:30:420.72947100 
+Tuned in:2026-02-12 04:30:420.7316 
+Setting AST: 1770870643.444 
+MimeType:  
+Setting AST: 2026-02-12T04:30:42.7316Z 
+TimeOffset: -1.4440281391144, Original time:1749494794 Updated time: 1749494792.556
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:30:420.74530500 
+Channel: 5 
+PTP time:1770870698.2576 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:31:030.04852400 
+Start SLS:2026-02-12 04:31:030.16223700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:31:030.50149700 
+Tuned in:2026-02-12 04:31:030.503 
+Setting AST: 1770870664.5576 
+MimeType:  
+Setting AST: 2026-02-12T04:31:03.503Z 
+TimeOffset: -1.5576281547546, Original time:1749494742 Updated time: 1749494740.4424
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:31:030.51601900 
+Channel: 2 
+PTP time:1770870720.6551 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:31:250.16604400 
+Start SLS:2026-02-12 04:31:250.27102900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:31:250.70091600 
+Tuned in:2026-02-12 04:31:250.7028 
+Setting AST: 1770870686.9551 
+MimeType:  
+Setting AST: 2026-02-12T04:31:25.7028Z 
+TimeOffset: -1.955146074295, Original time:1749494794 Updated time: 1749494792.0449
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:31:250.71673100 
+Channel: 5 
+PTP time:1770870741.1995 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:31:460.48371800 
+Start SLS:2026-02-12 04:31:460.64547800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:31:460.80126100 
+Tuned in:2026-02-12 04:31:460.8041 
+Setting AST: 1770870707.4995 
+MimeType:  
+Setting AST: 2026-02-12T04:31:46.8041Z 
+TimeOffset: -1.4994950294495, Original time:1749494742 Updated time: 1749494740.5005
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:31:460.82268600 
+Channel: 2 
+PTP time:1770870790.2129 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:32:340.59995300 
+Start SLS:2026-02-12 04:32:340.76048700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:32:350.21100800 
+Tuned in:2026-02-12 04:32:350.2129 
+Setting AST: 1770870756.5129 
+MimeType:  
+Setting AST: 2026-02-12T04:32:35.2129Z 
+TimeOffset: -1.5129282474518, Original time:1749494794 Updated time: 1749494792.4871
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:32:350.22775700 
+Channel: 5 
+PTP time:1770870807.1334 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:32:510.64433500 
+Start SLS:2026-02-12 04:32:510.78463900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:32:510.98623700 
+Tuned in:2026-02-12 04:32:510.9893 
+Setting AST: 1770870773.4334 
+MimeType:  
+Setting AST: 2026-02-12T04:32:51.9893Z 
+TimeOffset: -2.4334378242493, Original time:1749494742 Updated time: 1749494739.5666
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:32:520.00946200 
+Channel: 2 
+PTP time:1770870822.2203 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:33:060.66376900 
+Start SLS:2026-02-12 04:33:060.79063700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:33:070.20710400 
+Tuned in:2026-02-12 04:33:070.2093 
+Setting AST: 1770870788.5203 
+MimeType:  
+Setting AST: 2026-02-12T04:33:07.2093Z 
+TimeOffset: -1.5203104019165, Original time:1749494794 Updated time: 1749494792.4797
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:33:070.22287600 
+Channel: 5 
+PTP time:1770870836.5687 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:33:210.08419400 
+Start SLS:2026-02-12 04:33:210.26690100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:33:210.51352000 
+Tuned in:2026-02-12 04:33:210.5177 
+Setting AST: 1770870802.8687 
+MimeType:  
+Setting AST: 2026-02-12T04:33:21.5177Z 
+TimeOffset: -1.8687450885773, Original time:1749494742 Updated time: 1749494740.1313
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:33:210.54764100 
+Channel: 2 
+PTP time:1770870976.6381 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:35:410.14039500 
+Start SLS:2026-02-12 04:35:410.24481500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:35:410.71178900 
+Tuned in:2026-02-12 04:35:410.7143 
+Setting AST: 1770870942.9381 
+MimeType:  
+Setting AST: 2026-02-12T04:35:41.7143Z 
+TimeOffset: -1.9381358623505, Original time:1749494794 Updated time: 1749494792.0619
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:35:410.73356600 
+Channel: 5 
+PTP time:1770871054.3044 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:36:590.52065800 
+Start SLS:2026-02-12 04:36:590.76661500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:37:000.00026000 
+Tuned in:2026-02-12 04:37:000.006 
+Setting AST: 1770871020.6044 
+MimeType:  
+Setting AST: 2026-02-12T04:37:00.006Z 
+TimeOffset: -0.60443353652954, Original time:1749494742 Updated time: 1749494741.3956
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:37:000.04639800 
+Channel: 2 
+PTP time:1770871123.6101 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:38:080.10877700 
+Start SLS:2026-02-12 04:38:080.19355000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:38:080.73447200 
+Tuned in:2026-02-12 04:38:080.7373 
+Setting AST: 1770871089.9101 
+MimeType:  
+Setting AST: 2026-02-12T04:38:08.7373Z 
+TimeOffset: -1.9101305007935, Original time:1749494794 Updated time: 1749494792.0899
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:38:080.75645800 
+Channel: 2 
+PTP time:1770871157.1535 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:38:420.01605000 
+Start SLS:2026-02-12 04:38:420.10004700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:38:420.68361200 
+Tuned in:2026-02-12 04:38:420.6867 
+Setting AST: 1770871124.0535 
+MimeType:  
+Setting AST: 2026-02-12T04:38:42.6867Z 
+TimeOffset: -2.0535147190094, Original time:1749494794 Updated time: 1749494791.9465
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:38:420.70808300 
+Channel: 5 
+PTP time:1770871172.9391 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:38:570.44243200 
+Start SLS:2026-02-12 04:38:570.58595900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:38:570.98593400 
+Tuned in:2026-02-12 04:38:570.9884 
+Setting AST: 1770871139.8391 
+MimeType:  
+Setting AST: 2026-02-12T04:38:57.9884Z 
+TimeOffset: -2.8391053676605, Original time:1749494742 Updated time: 1749494739.1609
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:38:580.00542800 
+Channel: 2 
+PTP time:1770871188.5709 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:39:130.07413300 
+Start SLS:2026-02-12 04:39:130.19452300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:39:130.71733300 
+Tuned in:2026-02-12 04:39:130.7197 
+Setting AST: 1770871155.4709 
+MimeType:  
+Setting AST: 2026-02-12T04:39:13.7197Z 
+TimeOffset: -2.4709498882294, Original time:1749494794 Updated time: 1749494791.5291
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:39:130.73686900 
+Channel: 2 
+PTP time:1770871216.7872 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:39:410.29198800 
+Start SLS:2026-02-12 04:39:410.46171500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:39:410.74014900 
+Tuned in:2026-02-12 04:39:410.7446 
+Setting AST: 1770871182.6872 
+MimeType:  
+Setting AST: 2026-02-12T04:39:41.7446Z 
+TimeOffset: -1.68723320961, Original time:1749494794 Updated time: 1749494792.3128
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:39:410.77510900 
+Channel: 5 
+PTP time:1770871235.6669 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:40:000.18060400 
+Start SLS:2026-02-12 04:40:000.34300100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:40:000.99018200 
+Tuned in:2026-02-12 04:40:000.9929 
+Setting AST: 1770871201.5669 
+MimeType:  
+Setting AST: 2026-02-12T04:40:00.9929Z 
+TimeOffset: -1.5669498443604, Original time:1749494742 Updated time: 1749494740.4331
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:40:010.01012200 
+Channel: 5 
+PTP time:1770871250.2127 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:40:140.58291100 
+Start SLS:2026-02-12 04:40:140.69751200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:40:140.99626900 
+Tuned in:2026-02-12 04:40:140.9999 
+Setting AST: 1770871216.1127 
+MimeType:  
+Setting AST: 2026-02-12T04:40:14.9999Z 
+TimeOffset: -2.1127147674561, Original time:1749494742 Updated time: 1749494739.8873
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:40:150.02260100 
+Channel: 5 
+PTP time:1770871275.8601 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:40:400.35886000 
+Start SLS:2026-02-12 04:40:400.46030200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:40:400.99669700 
+Tuned in:2026-02-12 04:40:410.0001 
+Setting AST: 1770871242.1601 
+MimeType:  
+Setting AST: 2026-02-12T04:40:41.0001Z 
+TimeOffset: -1.160115480423, Original time:1749494742 Updated time: 1749494740.8399
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:40:410.02375800 
+Channel: 5 
+PTP time:1770871288.2432 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:40:520.74725600 
+Start SLS:2026-02-12 04:40:520.87797300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:40:530.47226300 
+Tuned in:2026-02-12 04:40:530.4763 
+Setting AST: 1770871254.5432 
+MimeType:  
+Setting AST: 2026-02-12T04:40:53.4763Z 
+TimeOffset: -1.5432329177856, Original time:1749494742 Updated time: 1749494740.4568
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:40:530.50273500 
+Channel: 2 
+PTP time:1770871305.1725 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 04:41:100.20196200 
+Start SLS:2026-02-12 04:41:100.31913100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 04:41:100.71142200 
+Tuned in:2026-02-12 04:41:100.7147 
+Setting AST: 1770871271.4725 
+MimeType:  
+Setting AST: 2026-02-12T04:41:10.7147Z 
+TimeOffset: -1.4725124835968, Original time:1749494794 Updated time: 1749494792.5275
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 04:41:100.73794600 
+Channel: 5 
+PTP time:1770871318.2944 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 04:41:230.40781600 
+Start SLS:2026-02-12 04:41:230.52029700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 04:41:240.00349200 
+Tuned in:2026-02-12 04:41:240.0066 
+Setting AST: 1770871284.5944 
+MimeType:  
+Setting AST: 2026-02-12T04:41:24.0066Z 
+TimeOffset: -0.59442806243896, Original time:1749494742 Updated time: 1749494741.4056
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 04:41:240.02842100 
+Channel: 5 
+PTP time:1770920719.1494 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:24:420.54727000 
+Start SLS:2026-02-12 18:24:420.87596500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:24:430.39694100 
+Tuned in:2026-02-12 18:24:430.3998 
+Setting AST: 1770920685.4494 
+MimeType:  
+Setting AST: 2026-02-12T18:24:43.3998Z 
+TimeOffset: -2.4494378566742, Original time:1749494742 Updated time: 1749494739.5506
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:24:430.41984600 
+Channel: 2 
+PTP time:1770920732.3447 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-12 18:24:550.74142200 
+Start SLS:2026-02-12 18:24:550.88710500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-12 18:24:560.08129500 
+Tuned in:2026-02-12 18:24:560.0865 
+Setting AST: 1770920698.6447 
+MimeType:  
+Setting AST: 2026-02-12T18:24:56.0865Z 
+TimeOffset: -2.6447448730469, Original time:1749494794 Updated time: 1749494791.3553
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-12 18:24:560.12187300 
+Channel: 5 
+PTP time:1770920743.3061 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:25:060.69724100 
+Start SLS:2026-02-12 18:25:060.84070600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:25:070.39185200 
+Tuned in:2026-02-12 18:25:070.395 
+Setting AST: 1770920709.6061 
+MimeType:  
+Setting AST: 2026-02-12T18:25:07.395Z 
+TimeOffset: -2.6061305999756, Original time:1749494742 Updated time: 1749494739.3939
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:25:070.41728200 
+Channel: 5 
+PTP time:1770920873.1859 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:27:170.23276300 
+Start SLS:2026-02-12 18:27:170.36792800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:27:170.88026700 
+Tuned in:2026-02-12 18:27:170.8831 
+Setting AST: 1770920839.4859 
+MimeType:  
+Setting AST: 2026-02-12T18:27:17.8831Z 
+TimeOffset: -2.4859232902527, Original time:1749494742 Updated time: 1749494739.5141
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:27:170.90171300 
+Channel: 5 
+PTP time:1770920936.7651 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:28:200.14243500 
+Start SLS:2026-02-12 18:28:200.24410400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:28:200.38024200 
+Tuned in:2026-02-12 18:28:200.3817 
+Setting AST: 1770920903.0651 
+MimeType:  
+Setting AST: 2026-02-12T18:28:20.3817Z 
+TimeOffset: -3.0651257038116, Original time:1749494742 Updated time: 1749494738.9349
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:28:200.39388500 
+Channel: 5 
+PTP time:1770921011.4694 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:29:340.84320500 
+Start SLS:2026-02-12 18:29:340.93300600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:29:350.34723100 
+Tuned in:2026-02-12 18:29:350.348 
+Setting AST: 1770920977.7694 
+MimeType:  
+Setting AST: 2026-02-12T18:29:35.348Z 
+TimeOffset: -2.769437789917, Original time:1749494742 Updated time: 1749494739.2306
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:29:350.35518300 
+Channel: 5 
+PTP time:1770921049.1454 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:30:120.80082000 
+Start SLS:2026-02-12 18:30:120.90334400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:30:130.47843400 
+Tuned in:2026-02-12 18:30:130.4794 
+Setting AST: 1770921015.4454 
+MimeType:  
+Setting AST: 2026-02-12T18:30:13.4794Z 
+TimeOffset: -2.4454135894775, Original time:1749494742 Updated time: 1749494739.5546
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:30:130.48812900 
+Channel: 5 
+PTP time:1770921101.1626 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:31:040.97423600 
+Start SLS:2026-02-12 18:31:050.07934500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:31:050.46536100 
+Tuned in:2026-02-12 18:31:050.4665 
+Setting AST: 1770921067.4626 
+MimeType:  
+Setting AST: 2026-02-12T18:31:05.4665Z 
+TimeOffset: -2.462584733963, Original time:1749494742 Updated time: 1749494739.5374
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:31:050.47461700 
+Channel: 5 
+PTP time:1770921196.8087 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:32:400.20050100 
+Start SLS:2026-02-12 18:32:400.41975600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:32:400.99265600 
+Tuned in:2026-02-12 18:32:400.9941 
+Setting AST: 1770921163.1087 
+MimeType:  
+Setting AST: 2026-02-12T18:32:40.9941Z 
+TimeOffset: -3.1087448596954, Original time:1749494742 Updated time: 1749494738.8913
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:32:410.00844600 
+Channel: 5 
+PTP time:1770921231.3181 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:33:140.68982000 
+Start SLS:2026-02-12 18:33:140.77599000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:33:140.96246100 
+Tuned in:2026-02-12 18:33:140.9636 
+Setting AST: 1770921197.6181 
+MimeType:  
+Setting AST: 2026-02-12T18:33:14.9636Z 
+TimeOffset: -3.6181359291077, Original time:1749494742 Updated time: 1749494738.3819
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:33:140.97419000 
+Channel: 5 
+PTP time:1770921672.4374 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:40:350.79195100 
+Start SLS:2026-02-12 18:40:350.89914900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:40:360.45363000 
+Tuned in:2026-02-12 18:40:360.4544 
+Channel: 5 
+PTP time:1770921747.9538 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:41:510.30086000 
+Start SLS:2026-02-12 18:41:510.40929900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:41:510.96771100 
+Tuned in:2026-02-12 18:41:510.9685 
+Channel: 5 
+PTP time:1770921785.1736 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:42:290.06606400 
+Start SLS:2026-02-12 18:42:290.21459200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:42:290.47675500 
+Tuned in:2026-02-12 18:42:290.478 
+Channel: 5 
+PTP time:1770921840.1152 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:43:230.47218700 
+Start SLS:2026-02-12 18:43:230.66270400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:43:230.96945600 
+Tuned in:2026-02-12 18:43:230.9708 
+Channel: 5 
+PTP time:1770921901.1851 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:44:250.18402800 
+Start SLS:2026-02-12 18:44:250.35128200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:44:250.93583700 
+Tuned in:2026-02-12 18:44:250.9371 
+Setting AST: 1770921867.4851 
+MimeType:  
+Setting AST: 2026-02-12T18:44:25.9371Z 
+TimeOffset: -2.4851105213165, Original time:1749494742 Updated time: 1749494739.5149
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:44:250.94877800 
+Channel: 5 
+PTP time:1770922046.2615 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:46:490.92862300 
+Start SLS:2026-02-12 18:46:500.08940100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:46:500.46949700 
+Tuned in:2026-02-12 18:46:500.4704 
+Setting AST: 1770922012.5615 
+MimeType:  
+Setting AST: 2026-02-12T18:46:50.4704Z 
+TimeOffset: -2.5614540576935, Original time:1749494742 Updated time: 1749494739.4385
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:46:500.48016500 
+Channel: 5 
+PTP time:1770922308.3014 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:51:110.38657800 
+Start SLS:2026-02-12 18:51:110.55609100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:51:110.92704600 
+Tuned in:2026-02-12 18:51:110.9279 
+Setting AST: 1770922274.6014 
+MimeType:  
+Setting AST: 2026-02-12T18:51:11.9279Z 
+MPD ASTS: 2025-06-09T18:45:42Z 
+TimeOffset: -3.6013593673706, Original time:1749494742 Updated time: 1749494738.3986
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 18:51:110.93652400 
+Channel: 5 
+PTP time:1770922610.2548 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 18:56:130.83138500 
+Start SLS:2026-02-12 18:56:130.96713600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 18:56:140.51622300 
+Tuned in:2026-02-12 18:56:140.5171 
+Channel: 5 
+PTP time:1770924713.1807 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:31:170.07239400 
+Start SLS:2026-02-12 19:31:170.27413300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:31:170.57217100 
+Tuned in:2026-02-12 19:31:170.5736 
+Channel: 5 
+PTP time:1770924750.2778 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:31:540.00203100 
+Start SLS:2026-02-12 19:31:540.09712100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:31:540.57051600 
+Tuned in:2026-02-12 19:31:540.5713 
+Channel: 5 
+PTP time:1770924885.1342 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:34:080.60859600 
+Start SLS:2026-02-12 19:34:080.80867500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:34:090.07359200 
+Tuned in:2026-02-12 19:34:090.0754 
+Channel: 5 
+PTP time:1770924928.3541 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:34:510.62456500 
+Start SLS:2026-02-12 19:34:510.72270500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:34:520.26303900 
+Tuned in:2026-02-12 19:34:520.264 
+Channel: 5 
+PTP time:1770924959.8192 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:35:230.10592400 
+Start SLS:2026-02-12 19:35:230.25603600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:35:230.57278000 
+Tuned in:2026-02-12 19:35:230.5738 
+Channel: 5 
+PTP time:1770925001.1661 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:36:040.90133100 
+Start SLS:2026-02-12 19:36:040.99579500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:36:050.58245000 
+Tuned in:2026-02-12 19:36:050.5834 
+Channel: 5 
+PTP time:1770925022.3001 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:36:260.23095400 
+Start SLS:2026-02-12 19:36:260.35584600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:36:260.55138500 
+Tuned in:2026-02-12 19:36:260.5523 
+Channel: 5 
+PTP time:1770925050.2203 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:36:530.42508800 
+Start SLS:2026-02-12 19:36:530.59302900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:36:540.07230400 
+Tuned in:2026-02-12 19:36:540.073 
+Channel: 5 
+PTP time:1770925080.6041 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:37:230.88376800 
+Start SLS:2026-02-12 19:37:240.09954800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:37:240.57621700 
+Tuned in:2026-02-12 19:37:240.5779 
+Channel: 5 
+PTP time:1770925109.1251 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:37:520.50774500 
+Start SLS:2026-02-12 19:37:520.67257300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:37:530.05101100 
+Tuned in:2026-02-12 19:37:530.0519 
+Channel: 5 
+PTP time:1770925402.261 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:42:450.83655900 
+Start SLS:2026-02-12 19:42:450.99089200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:42:460.54617900 
+Tuned in:2026-02-12 19:42:460.5471 
+Setting AST: 1770925368.561 
+MimeType:  
+Setting AST: 2026-02-12T19:42:46.5471Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -2.5610129833221, Original time:1749494742 Updated time: 1749494739.439
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 19:42:460.55553000 
+Channel: 5 
+PTP time:1770925458.2435 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:43:410.64809000 
+Start SLS:2026-02-12 19:43:410.75069300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:43:420.07186200 
+Tuned in:2026-02-12 19:43:420.0727 
+Setting AST: 1770925424.5435 
+MimeType:  
+Setting AST: 2026-02-12T19:43:42.0727Z 
+MPD AST:  
+TimeOffset: -2.543523311615, Original time:1770925422 Updated time: 1770925419.4565
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 19:43:420.08186200 
+Channel: 5 
+PTP time:1770925502.2689 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:44:250.90398400 
+Start SLS:2026-02-12 19:44:260.05912200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:44:260.56435200 
+Tuned in:2026-02-12 19:44:260.5653 
+Setting AST: 1770925468.5689 
+MimeType:  
+Setting AST: 2026-02-12T19:44:26.5653Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -2.5689282417297, Original time:1749494742 Updated time: 1749494739.4311
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 19:44:260.57494500 
+Channel: 5 
+PTP time:1770925670.2164 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:47:130.37361900 
+Start SLS:2026-02-12 19:47:130.50187600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:47:140.05232200 
+Tuned in:2026-02-12 19:47:140.0536 
+Channel: 5 
+PTP time:1770925738.2372 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:48:210.60171800 
+Start SLS:2026-02-12 19:48:210.83553600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:48:220.07452200 
+Tuned in:2026-02-12 19:48:220.0772 
+Channel: 5 
+PTP time:1770925777.1528 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:49:000.74843700 
+Start SLS:2026-02-12 19:49:000.84653400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:49:010.04954200 
+Tuned in:2026-02-12 19:49:010.0506 
+Channel: 5 
+PTP time:1770925862.2405 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:50:250.61946700 
+Start SLS:2026-02-12 19:50:250.75620400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:50:260.06253500 
+Tuned in:2026-02-12 19:50:260.0639 
+Channel: 5 
+PTP time:1770925882.2908 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:50:460.11911900 
+Start SLS:2026-02-12 19:50:460.23405900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:50:460.56653300 
+Tuned in:2026-02-12 19:50:460.5673 
+Channel: 5 
+PTP time:1770925898.2945 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:51:020.14513300 
+Start SLS:2026-02-12 19:51:020.23624900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:51:020.65522200 
+Tuned in:2026-02-12 19:51:020.6561 
+Channel: 5 
+PTP time:1770925924.6944 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:51:270.32755800 
+Start SLS:2026-02-12 19:51:270.49683900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:51:280.05188700 
+Tuned in:2026-02-12 19:51:280.053 
+Setting AST: 1770925890.9944 
+Setting AST: 2026-02-12T19:51:28.053Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -2.9943780899048, Original time:1749494742 Updated time: 1749494739.0056
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 19:51:280.06342900 
+Channel: 5 
+PTP time:1770926015.8258 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:52:590.07526600 
+Start SLS:2026-02-12 19:52:590.18831500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:52:590.55562300 
+Tuned in:2026-02-12 19:52:590.5567 
+Setting AST: 1770925982.1258 
+Setting AST: 2026-02-12T19:52:59.5567Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.1258473396301, Original time:1749494742 Updated time: 1749494738.8742
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 19:52:590.56587000 
+Channel: 5 
+PTP time:1770926038.2203 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:53:210.40120800 
+Start SLS:2026-02-12 19:53:210.49509300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:53:220.05721400 
+Tuned in:2026-02-12 19:53:220.058 
+Setting AST: 1770926004.5203 
+Setting AST: 2026-02-12T19:53:22.058Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -2.5203104019165, Original time:1749494742 Updated time: 1749494739.4797
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 19:53:220.06594600 
+Channel: 5 
+PTP time:1770926084.6421 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:54:070.88472100 
+Start SLS:2026-02-12 19:54:070.99342000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:54:080.56233500 
+Tuned in:2026-02-12 19:54:080.5631 
+Setting AST: 1770926050.9421 
+MimeType:  
+Setting AST: 2026-02-12T19:54:08.5631Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -2.9421305656433, Original time:1749494742 Updated time: 1749494739.0579
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 19:54:080.57230100 
+Channel: 5 
+PTP time:1770926191.2178 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:55:540.46158300 
+Start SLS:2026-02-12 19:55:540.57808700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:55:550.06496200 
+Tuned in:2026-02-12 19:55:550.0664 
+Channel: 5 
+PTP time:1770926263.7915 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:57:060.32942800 
+Start SLS:2026-02-12 19:57:060.48528600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:57:070.02357300 
+Tuned in:2026-02-12 19:57:070.0251 
+Channel: 5 
+PTP time:1770926381.1047 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 19:59:040.26090600 
+Start SLS:2026-02-12 19:59:040.36886700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 19:59:040.52734100 
+Tuned in:2026-02-12 19:59:040.5285 
+Channel: 5 
+PTP time:1770926440.5014 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:00:030.75108600 
+Start SLS:2026-02-12 20:00:030.95952100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:00:040.14899200 
+Tuned in:2026-02-12 20:00:040.1507 
+Channel: 5 
+PTP time:1770926457.1374 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:00:200.58033400 
+Start SLS:2026-02-12 20:00:200.67215400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:00:210.11754100 
+Tuned in:2026-02-12 20:00:210.1185 
+Channel: 5 
+PTP time:1770926479.2741 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:00:420.51434100 
+Start SLS:2026-02-12 20:00:420.66895300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:00:430.13190000 
+Tuned in:2026-02-12 20:00:430.1331 
+Channel: 5 
+PTP time:1770926502.2871 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:01:060.05295000 
+Start SLS:2026-02-12 20:01:060.14998100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:01:060.60246700 
+Tuned in:2026-02-12 20:01:060.6032 
+Channel: 5 
+PTP time:1770926521.1725 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:01:240.95897700 
+Start SLS:2026-02-12 20:01:250.14540400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:01:250.62694200 
+Tuned in:2026-02-12 20:01:250.6278 
+Channel: 5 
+PTP time:1770926539.5654 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:01:420.79264500 
+Start SLS:2026-02-12 20:01:420.88837200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:01:430.11497100 
+Tuned in:2026-02-12 20:01:430.1162 
+Channel: 5 
+PTP time:1770926572.2487 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:02:150.48806600 
+Start SLS:2026-02-12 20:02:150.65089100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:02:160.13106400 
+Tuned in:2026-02-12 20:02:160.1319 
+Channel: 5 
+PTP time:1770926603.1047 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:02:460.33231200 
+Start SLS:2026-02-12 20:02:460.44026200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:02:460.64223800 
+Tuned in:2026-02-12 20:02:460.6433 
+Channel: 5 
+PTP time:1770926661.1998 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:03:450.20276100 
+Start SLS:2026-02-12 20:03:450.29869800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:03:450.62578900 
+Tuned in:2026-02-12 20:03:450.6267 
+Setting AST: 1770926627.4998 
+MimeType:  
+Setting AST: 2026-02-12T20:03:45.6267Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -2.4998135566711, Original time:1749494742 Updated time: 1749494739.5002
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 20:03:450.63699200 
+Channel: 5 
+PTP time:1770926706.2885 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:04:300.06669000 
+Start SLS:2026-02-12 20:04:300.15604600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:04:300.62274700 
+Tuned in:2026-02-12 20:04:300.6235 
+Channel: 5 
+PTP time:1770926750.2328 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:05:130.51598400 
+Start SLS:2026-02-12 20:05:130.62310800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:05:140.14612000 
+Tuned in:2026-02-12 20:05:140.147 
+Setting AST: 1770926716.5328 
+MimeType:  
+Setting AST: 2026-02-12T20:05:14.147Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -2.5327641963959, Original time:1749494742 Updated time: 1749494739.4672
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-12 20:05:140.15642500 
+Channel: 5 
+PTP time:1770926820.1111 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:06:230.34346300 
+Start SLS:2026-02-12 20:06:230.45502100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:06:230.63035800 
+Tuned in:2026-02-12 20:06:230.6314 
+Channel: 5 
+PTP time:1770926852.5911 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:06:550.82145600 
+Start SLS:2026-02-12 20:06:550.93549600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:06:560.11990700 
+Tuned in:2026-02-12 20:06:560.1209 
+Channel: 5 
+PTP time:1770927051.1251 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:10:140.35123600 
+Start SLS:2026-02-12 20:10:140.52373400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:10:150.09830000 
+Tuned in:2026-02-12 20:10:150.0993 
+Channel: 5 
+PTP time:1770927087.2592 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-12 20:10:500.49054000 
+Start SLS:2026-02-12 20:10:500.69373900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-12 20:10:510.12960500 
+Tuned in:2026-02-12 20:10:510.1315 
+Channel: 5 
+PTP time:1770946149.1389 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:28:320.10331700 
+Start SLS:2026-02-13 01:28:320.33054800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:28:320.46969800 
+Tuned in:2026-02-13 01:28:320.471 
+Channel: 5 
+PTP time:1770946267.5111 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:30:300.26148900 
+Start SLS:2026-02-13 01:30:300.44954100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:30:300.98233900 
+Tuned in:2026-02-13 01:30:300.984 
+Channel: 5 
+PTP time:1770946308.1111 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:31:100.86858500 
+Start SLS:2026-02-13 01:31:110.04068600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:31:110.48344300 
+Tuned in:2026-02-13 01:31:110.4848 
+Channel: 5 
+PTP time:1770946327.8021 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:31:300.54322300 
+Start SLS:2026-02-13 01:31:300.65143800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:31:300.97867100 
+Tuned in:2026-02-13 01:31:300.9795 
+Setting AST: 1770946294.1021 
+MimeType: Array 
+Setting AST: 2026-02-13T01:31:30.9795Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -4.102130651474, Original time:1749494742 Updated time: 1749494737.8979
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 01:31:300.98961500 
+Channel: 5 
+PTP time:1770946384.4396 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:32:270.18065100 
+Start SLS:2026-02-13 01:32:270.28788900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:32:270.47842400 
+Tuned in:2026-02-13 01:32:270.4796 
+Setting AST: 1770946350.7396 
+MimeType: Array 
+Setting AST: 2026-02-13T01:32:27.4796Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.7396426200867, Original time:1749494742 Updated time: 1749494738.2604
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 01:32:270.49385000 
+Channel: 5 
+PTP time:1770946425.1673 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:33:080.39369200 
+Start SLS:2026-02-13 01:33:080.52555600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:33:080.96826900 
+Tuned in:2026-02-13 01:33:080.9692 
+Channel: 5 
+PTP time:1770946448.1814 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:33:300.93425000 
+Start SLS:2026-02-13 01:33:310.11057100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:33:310.44967400 
+Tuned in:2026-02-13 01:33:310.4511 
+Channel: 5 
+PTP time:1770946500.1494 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:34:220.89432100 
+Start SLS:2026-02-13 01:34:230.05568000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:34:230.49277100 
+Tuned in:2026-02-13 01:34:230.4937 
+Channel: 5 
+PTP time:1770946539.5312 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:35:020.28306600 
+Start SLS:2026-02-13 01:35:020.46717000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:35:020.98941400 
+Tuned in:2026-02-13 01:35:020.9906 
+Setting AST: 1770946505.8312 
+MimeType:  
+Setting AST: 2026-02-13T01:35:02.9906Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.8312330245972, Original time:1749494742 Updated time: 1749494738.1688
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 01:35:030.00260900 
+Channel: 5 
+PTP time:1770946681.1452 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:37:240.17477800 
+Start SLS:2026-02-13 01:37:240.36373700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:37:240.97958600 
+Tuned in:2026-02-13 01:37:240.9807 
+Setting AST: 1770946647.4452 
+MimeType:  
+Setting AST: 2026-02-13T01:37:24.9807Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.4452114105225, Original time:1749494742 Updated time: 1749494738.5548
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 01:37:240.99374400 
+Channel: 5 
+PTP time:1770946732.3811 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:38:150.12896300 
+Start SLS:2026-02-13 01:38:150.29515200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:38:150.95735900 
+Tuned in:2026-02-13 01:38:150.9582 
+Setting AST: 1770946698.6811 
+MimeType:  
+Setting AST: 2026-02-13T01:38:15.9582Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.6811256408691, Original time:1749494742 Updated time: 1749494738.3189
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 01:38:150.96758400 
+Channel: 5 
+PTP time:1770947015.7693 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:42:580.50194500 
+Start SLS:2026-02-13 01:42:580.65790800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:42:580.95373500 
+Tuned in:2026-02-13 01:42:580.9547 
+Setting AST: 1770946982.0693 
+MimeType:  
+Setting AST: 2026-02-13T01:42:58.9547Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -4.0692822933197, Original time:1749494742 Updated time: 1749494737.9307
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 01:42:580.96515400 
+Channel: 5 
+PTP time:1770947060.4291 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:43:430.14950900 
+Start SLS:2026-02-13 01:43:430.24871000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:43:430.46345300 
+Tuned in:2026-02-13 01:43:430.4643 
+Setting AST: 1770947026.7291 
+MimeType:  
+Setting AST: 2026-02-13T01:43:43.4643Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.7291257381439, Original time:1749494742 Updated time: 1749494738.2709
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 01:43:430.47369100 
+Channel: 5 
+PTP time:1770947098.2235 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:44:200.91869600 
+Start SLS:2026-02-13 01:44:210.02502400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:44:210.41600300 
+Tuned in:2026-02-13 01:44:210.4169 
+Setting AST: 1770947064.5235 
+MimeType: Array 
+Setting AST: 2026-02-13T01:44:21.4169Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.5235104560852, Original time:1749494742 Updated time: 1749494738.4765
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 01:44:210.42641400 
+Channel: 5 
+PTP time:1770947234.2651 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 01:46:370.33491600 
+Start SLS:2026-02-13 01:46:370.49601600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 01:46:370.96198700 
+Tuned in:2026-02-13 01:46:370.9629 
+Channel: 5 
+PTP time:1770948194.2842 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 02:02:370.49756100 
+Start SLS:2026-02-13 02:02:370.64690800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 02:02:370.94192200 
+Tuned in:2026-02-13 02:02:370.9433 
+Channel: 5 
+PTP time:1770948212.8601 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 02:02:550.55611100 
+Start SLS:2026-02-13 02:02:550.65837000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 02:02:550.95807800 
+Tuned in:2026-02-13 02:02:550.9589 
+Channel: 5 
+PTP time:1770948352.1185 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 02:05:140.81637300 
+Start SLS:2026-02-13 02:05:140.97505800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 02:05:150.43061900 
+Tuned in:2026-02-13 02:05:150.4317 
+Setting AST: 1770948318.4185 
+MimeType:  
+Setting AST: 2026-02-13T02:05:15.4317Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.4185402393341, Original time:1749494742 Updated time: 1749494738.5815
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 02:05:150.44159600 
+Channel: 5 
+PTP time:1770948470.2313 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 02:07:120.96597100 
+Start SLS:2026-02-13 02:07:130.15366200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 02:07:130.43615300 
+Tuned in:2026-02-13 02:07:130.4372 
+Channel: 5 
+PTP time:1770948488.1283 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 02:07:300.81454800 
+Start SLS:2026-02-13 02:07:300.93408000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 02:07:310.43415200 
+Tuned in:2026-02-13 02:07:310.4351 
+Channel: 5 
+PTP time:1770948496.6541 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 02:07:390.33820600 
+Start SLS:2026-02-13 02:07:390.42917600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+Channel: 5 
+PTP time:1770948545.1804 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 02:08:280.46741400 
+Start SLS:2026-02-13 02:08:280.57293600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 02:08:280.93258500 
+Tuned in:2026-02-13 02:08:280.9335 
+Channel: 5 
+PTP time:1770949949.1549 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 02:31:520.20282200 
+Start SLS:2026-02-13 02:31:520.37632100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 02:31:520.88705600 
+Tuned in:2026-02-13 02:31:520.8883 
+Channel: 5 
+PTP time:1770951830.2165 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:03:120.73428700 
+Start SLS:2026-02-13 03:03:120.88509500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:03:130.35203400 
+Tuned in:2026-02-13 03:03:130.3528 
+Channel: 5 
+PTP time:1770951883.7094 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:04:060.30935700 
+Start SLS:2026-02-13 03:04:060.40350000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:04:060.84009100 
+Tuned in:2026-02-13 03:04:060.8412 
+Channel: 5 
+PTP time:1770951911.9261 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:04:340.53441600 
+Start SLS:2026-02-13 03:04:340.71797200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:04:350.34831700 
+Tuned in:2026-02-13 03:04:350.3491 
+Channel: 5 
+PTP time:1770951918.2876 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:04:410.43276400 
+Start SLS:2026-02-13 03:04:410.51908900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:04:410.84973800 
+Tuned in:2026-02-13 03:04:410.8505 
+Setting AST: 1770951884.5876 
+MimeType:  
+Setting AST: 2026-02-13T03:04:41.8505Z 
+MPD AST: 2025-06-09T18:45:42Z 
+TimeOffset: -3.5876114368439, Original time:1749494742 Updated time: 1749494738.4124
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 03:04:410.85863300 
+Channel: 5 
+PTP time:1770951944.0282 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:05:060.60174400 
+Start SLS:2026-02-13 03:05:060.69240600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:05:060.84665100 
+Tuned in:2026-02-13 03:05:060.8478 
+Channel: 5 
+PTP time:1770951963.8941 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:05:260.50170200 
+Start SLS:2026-02-13 03:05:260.59050700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:05:260.82561900 
+Tuned in:2026-02-13 03:05:260.8267 
+Channel: 5 
+PTP time:1770952070.272 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:07:130.28662000 
+Start SLS:2026-02-13 03:07:130.44363500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:07:130.81564100 
+Tuned in:2026-02-13 03:07:130.8171 
+Channel: 5 
+PTP time:1770952109.1673 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:07:520.25802800 
+Start SLS:2026-02-13 03:07:520.42372300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:07:520.85840800 
+Tuned in:2026-02-13 03:07:520.8596 
+Channel: 5 
+PTP time:1770952168.3151 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:08:500.92023300 
+Start SLS:2026-02-13 03:08:510.08569000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:08:510.34572800 
+Tuned in:2026-02-13 03:08:510.347 
+Channel: 5 
+PTP time:1770952212.1632 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:09:340.76931000 
+Start SLS:2026-02-13 03:09:340.95835400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:09:350.32210800 
+Tuned in:2026-02-13 03:09:350.3231 
+Channel: 5 
+PTP time:1770952227.9974 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:09:500.59990600 
+Start SLS:2026-02-13 03:09:500.76523200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:09:510.32849100 
+Tuned in:2026-02-13 03:09:510.3295 
+Setting AST: 1770952194.2974 
+Setting AST: 2026-02-13T03:09:51.3295Z 
+TimeOffset: -3.2974376678467, Original time:1749494742 Updated time: 1749494738.7026
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 03:09:510.33941600 
+Channel: 5 
+PTP time:1770952313.1281 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:11:150.86983100 
+Start SLS:2026-02-13 03:11:150.99728700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:11:160.34140600 
+Tuned in:2026-02-13 03:11:160.3424 
+Channel: 5 
+PTP time:1770952330.2357 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:11:320.90088600 
+Start SLS:2026-02-13 03:11:330.01017500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:11:330.34542300 
+Tuned in:2026-02-13 03:11:330.3463 
+Channel: 5 
+PTP time:1770952672.3641 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:17:140.96331100 
+Start SLS:2026-02-13 03:17:150.14469800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:17:150.32379600 
+Tuned in:2026-02-13 03:17:150.325 
+Channel: 5 
+PTP time:1770952707.4832 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:17:500.08431200 
+Start SLS:2026-02-13 03:17:500.25105100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:17:500.80378100 
+Tuned in:2026-02-13 03:17:500.8046 
+Setting AST: 1770952673.7832 
+Setting AST: 2026-02-13T03:17:50.8046Z 
+TimeOffset: -3.7832329273224, Original time:1749494742 Updated time: 1749494738.2168
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 03:17:500.81172400 
+Channel: 5 
+PTP time:1770952786.2498 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:19:090.04149400 
+Start SLS:2026-02-13 03:19:090.23834800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:19:090.81406500 
+Tuned in:2026-02-13 03:19:090.8149 
+Setting AST: 1770952752.5498 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T03:19:09.8149Z 
+TimeOffset: -3.5498130321503, Original time:1749494742 Updated time: 1749494738.4502
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 03:19:090.82286000 
+Channel: 5 
+PTP time:1770952830.2752 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:19:530.28205000 
+Start SLS:2026-02-13 03:19:530.37742700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:19:530.79400900 
+Tuned in:2026-02-13 03:19:530.795 
+Channel: 5 
+PTP time:1770952977.1903 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:22:200.47565900 
+Start SLS:2026-02-13 03:22:200.63624700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:22:200.80999100 
+Tuned in:2026-02-13 03:22:200.8116 
+Channel: 5 
+PTP time:1770953311.8141 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:27:540.38128200 
+Start SLS:2026-02-13 03:27:540.47978900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:27:540.82101700 
+Tuned in:2026-02-13 03:27:540.8221 
+Channel: 5 
+PTP time:1770953351.6029 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:28:340.16553900 
+Start SLS:2026-02-13 03:28:340.40530800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:28:340.82137100 
+Tuned in:2026-02-13 03:28:340.8224 
+Setting AST: 1770953317.9029 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T03:28:34.8224Z 
+TimeOffset: -3.9029498100281, Original time:1749494742 Updated time: 1749494738.0971
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 03:28:340.83104300 
+Channel: 5 
+PTP time:1770954056.8247 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:40:190.38312000 
+Start SLS:2026-02-13 03:40:190.53549800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:40:190.79351100 
+Tuned in:2026-02-13 03:40:190.7946 
+Channel: 5 
+PTP time:1770954115.8973 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:41:180.45607800 
+Start SLS:2026-02-13 03:41:180.60512200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:41:180.77590700 
+Tuned in:2026-02-13 03:41:180.7775 
+Channel: 5 
+PTP time:1770954238.2152 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:43:200.66258200 
+Start SLS:2026-02-13 03:43:200.82903500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:43:210.28643500 
+Tuned in:2026-02-13 03:43:210.2873 
+Channel: 5 
+PTP time:1770954267.5389 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 03:43:500.09301900 
+Start SLS:2026-02-13 03:43:500.24312000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 03:43:500.77590300 
+Tuned in:2026-02-13 03:43:500.7767 
+Channel: 5 
+PTP time:1770956346.2509 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:18:280.95773200 
+Start SLS:2026-02-13 04:18:290.09996100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:18:290.35591200 
+Tuned in:2026-02-13 04:18:290.3569 
+Channel: 5 
+PTP time:1770956414.2514 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:19:360.96977900 
+Start SLS:2026-02-13 04:19:370.08701500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+Channel: 5 
+PTP time:1770956449.161 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:20:120.08178200 
+Start SLS:2026-02-13 04:20:120.16867700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:20:120.32460100 
+Tuned in:2026-02-13 04:20:120.3255 
+Channel: 5 
+PTP time:1770956474.3008 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:20:370.46770900 
+Start SLS:2026-02-13 04:20:370.63921300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:20:370.84367800 
+Tuned in:2026-02-13 04:20:370.8447 
+Channel: 5 
+PTP time:1770956544.3861 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:21:460.88693000 
+Start SLS:2026-02-13 04:21:470.05919700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:21:470.33762300 
+Tuned in:2026-02-13 04:21:470.3393 
+Channel: 5 
+PTP time:1770956572.4003 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:22:140.89534300 
+Start SLS:2026-02-13 04:22:150.02189800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:22:150.35027300 
+Tuned in:2026-02-13 04:22:150.3511 
+Channel: 5 
+PTP time:1770956633.173 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:23:160.19985000 
+Start SLS:2026-02-13 04:23:160.29486100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:23:160.85090200 
+Tuned in:2026-02-13 04:23:160.8517 
+Setting AST: 1770956599.473 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:23:16.8517Z 
+TimeOffset: -3.4730129241943, Original time:1749494742 Updated time: 1749494738.527
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:23:160.85906900 
+Channel: 5 
+PTP time:1770956796.9185 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:25:590.41788700 
+Start SLS:2026-02-13 04:25:590.60406400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:25:590.84872700 
+Tuned in:2026-02-13 04:25:590.85 
+Channel: 5 
+PTP time:1770956820.8727 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:26:230.36989600 
+Start SLS:2026-02-13 04:26:230.52757900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:26:230.84271000 
+Tuned in:2026-02-13 04:26:230.8443 
+Channel: 5 
+PTP time:1770957039.5036 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:30:010.98846700 
+Start SLS:2026-02-13 04:30:020.14753000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:30:020.32077900 
+Tuned in:2026-02-13 04:30:020.3223 
+Channel: 5 
+PTP time:1770957545.1403 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:38:270.85261600 
+Start SLS:2026-02-13 04:38:280.00419400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:38:280.32037800 
+Tuned in:2026-02-13 04:38:280.3217 
+Channel: 5 
+PTP time:1770957628.8121 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:39:510.29088600 
+Start SLS:2026-02-13 04:39:510.45099500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:39:510.78224800 
+Tuned in:2026-02-13 04:39:510.7837 
+Channel: 5 
+PTP time:1770957667.5858 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:40:300.06049700 
+Start SLS:2026-02-13 04:40:300.21135000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:40:300.79151800 
+Tuned in:2026-02-13 04:40:300.7926 
+Channel: 5 
+PTP time:1770957704.9378 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:41:070.40026900 
+Start SLS:2026-02-13 04:41:070.51354800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:41:070.82366200 
+Tuned in:2026-02-13 04:41:070.8247 
+Channel: 5 
+PTP time:1770957723.4335 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:41:250.47949500 
+Start SLS:2026-02-13 04:41:250.66819500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:41:260.30718500 
+Tuned in:2026-02-13 04:41:260.308 
+Channel: 5 
+PTP time:1770957774.2817 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:42:170.23511500 
+Start SLS:2026-02-13 04:42:170.33363500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:42:170.76414200 
+Tuned in:2026-02-13 04:42:170.7649 
+Channel: 5 
+PTP time:1770957790.2855 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:42:330.28305800 
+Start SLS:2026-02-13 04:42:330.43609700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:42:330.79010700 
+Tuned in:2026-02-13 04:42:330.7912 
+Channel: 5 
+PTP time:1770957839.5261 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:43:210.99361400 
+Start SLS:2026-02-13 04:43:220.11971600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:43:220.31039500 
+Tuned in:2026-02-13 04:43:220.3115 
+Channel: 5 
+PTP time:1770957886.2467 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:44:080.88851300 
+Start SLS:2026-02-13 04:44:090.05056600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:44:090.31541100 
+Tuned in:2026-02-13 04:44:090.3168 
+Channel: 5 
+PTP time:1770957933.1133 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:44:550.57054900 
+Start SLS:2026-02-13 04:44:550.70516400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:44:560.30522100 
+Tuned in:2026-02-13 04:44:560.3063 
+Setting AST: 1770957899.4133 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:44:56.3063Z 
+TimeOffset: -3.4133124351501, Original time:1749494742 Updated time: 1749494738.5867
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:44:560.31596100 
+Channel: 5 
+PTP time:1770957992.3853 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:45:540.84321800 
+Start SLS:2026-02-13 04:45:540.96091600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:45:550.30603500 
+Tuned in:2026-02-13 04:45:550.3068 
+Setting AST: 1770957958.6853 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:45:55.3068Z 
+TimeOffset: -3.6852822303772, Original time:1749494742 Updated time: 1749494738.3147
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:45:550.31488800 
+Channel: 5 
+PTP time:1770958068.5101 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:47:100.96993900 
+Start SLS:2026-02-13 04:47:110.06156400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:47:110.28950000 
+Tuned in:2026-02-13 04:47:110.2906 
+Setting AST: 1770958034.5101 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:47:11.2906Z 
+TimeOffset: -3.5101358890533, Original time:1749494742 Updated time: 1749494738.4899
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:47:110.29998900 
+Channel: 2 
+PTP time:1770958082.2565 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 04:47:240.97215400 
+Start SLS:2026-02-13 04:47:250.12727600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 04:47:250.50150500 
+Tuned in:2026-02-13 04:47:250.5023 
+Setting AST: 1770958048.2565 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:47:25.5023Z 
+TimeOffset: -3.2565438747406, Original time:1749494794 Updated time: 1749494790.7435
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 04:47:250.51107000 
+Channel: 5 
+PTP time:1770958096.9301 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:47:390.39275200 
+Start SLS:2026-02-13 04:47:390.55394300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:47:390.81151000 
+Tuned in:2026-02-13 04:47:390.8124 
+Setting AST: 1770958062.9301 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:47:39.8124Z 
+TimeOffset: -3.9301307201385, Original time:1749494742 Updated time: 1749494738.0699
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:47:390.82188600 
+Channel: 5 
+PTP time:1770958138.2187 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:48:200.59436900 
+Start SLS:2026-02-13 04:48:200.70244000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:48:210.28574800 
+Tuned in:2026-02-13 04:48:210.2867 
+Setting AST: 40 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:48:21.2867Z 
+TimeOffset: 1770958061, Original time:1749494742 Updated time: 3520452803
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:48:210.29447000 
+Channel: 2 
+PTP time:1770958149.1937 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 04:48:320.38343100 
+Start SLS:2026-02-13 04:48:320.55584800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 04:48:330.01767900 
+Tuned in:2026-02-13 04:48:330.019 
+Setting AST: 40 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:48:33.019Z 
+TimeOffset: 1770958073, Original time:1749494794 Updated time: 3520452867
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 04:48:330.03137800 
+Channel: 5 
+PTP time:1770958179.9571 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:49:020.41606400 
+Start SLS:2026-02-13 04:49:020.59153200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:49:020.81897000 
+Tuned in:2026-02-13 04:49:020.8205 
+Setting AST: 40.3 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:49:02.8205Z 
+TimeOffset: 1770958101.7, Original time:1749494742 Updated time: 3520452843.7
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:49:020.83473000 
+Channel: 5 
+PTP time:1770958361.1057 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:52:030.49367200 
+Start SLS:2026-02-13 04:52:030.67678700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:52:040.29781500 
+Tuned in:2026-02-13 04:52:040.2987 
+Setting AST: 1770958364.4057 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:52:04.2987Z 
+TimeOffset: -40.40572810173, Original time:1749494742 Updated time: 1749494701.5943
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:52:040.30729200 
+Channel: 2 
+PTP time:1770958371.3861 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 04:52:130.84563000 
+Start SLS:2026-02-13 04:52:140.02778700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 04:52:140.49933200 
+Tuned in:2026-02-13 04:52:140.5006 
+Setting AST: 1770958374.6861 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:52:14.5006Z 
+TimeOffset: -40.686130523682, Original time:1749494794 Updated time: 1749494753.3139
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 04:52:140.51343100 
+Channel: 5 
+PTP time:1770958382.2193 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:52:240.60833300 
+Start SLS:2026-02-13 04:52:240.77411800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:52:250.29466600 
+Tuned in:2026-02-13 04:52:250.2959 
+Setting AST: 1770958385.5193 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:52:25.2959Z 
+TimeOffset: -40.519328117371, Original time:1749494742 Updated time: 1749494701.4807
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:52:250.30513200 
+Channel: 5 
+PTP time:1770958460.7061 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:53:430.15557700 
+Start SLS:2026-02-13 04:53:430.27591500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:53:430.81420700 
+Tuned in:2026-02-13 04:53:430.8153 
+Setting AST: 1770958427.0061 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:53:43.8153Z 
+TimeOffset: -4.006130695343, Original time:1749494742 Updated time: 1749494737.9939
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:53:430.82602500 
+Channel: 2 
+PTP time:1770958490.3002 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 04:54:130.40931200 
+Start SLS:2026-02-13 04:54:130.56931900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 04:54:140.02403300 
+Tuned in:2026-02-13 04:54:140.0253 
+Setting AST: 1770958456.6002 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:54:14.0253Z 
+TimeOffset: -2.6001846790314, Original time:1749494794 Updated time: 1749494791.3998
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 04:54:140.03964100 
+Channel: 5 
+PTP time:1770958520.5911 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:54:430.04623500 
+Start SLS:2026-02-13 04:54:430.16914400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:54:430.29090900 
+Tuned in:2026-02-13 04:54:430.2922 
+Setting AST: 1770958486.8911 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:54:43.2922Z 
+TimeOffset: -3.8911461830139, Original time:1749494742 Updated time: 1749494738.1089
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:54:430.30396500 
+Channel: 2 
+PTP time:1770958548.4021 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 04:55:100.85309000 
+Start SLS:2026-02-13 04:55:110.00408000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 04:55:110.49971300 
+Tuned in:2026-02-13 04:55:110.5005 
+Setting AST: 1770958514.7021 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:55:11.5005Z 
+TimeOffset: -3.7021305561066, Original time:1749494794 Updated time: 1749494790.2979
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 04:55:110.50753800 
+Channel: 5 
+PTP time:1770958582.2351 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:55:440.75229700 
+Start SLS:2026-02-13 04:55:440.94034200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:55:450.26248000 
+Tuned in:2026-02-13 04:55:450.264 
+Setting AST: 1770958548.9351 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:55:45.264Z 
+TimeOffset: -3.9351146221161, Original time:1749494742 Updated time: 1749494738.0649
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:55:450.27774900 
+Channel: 2 
+PTP time:1770958614.2628 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 04:56:170.02877200 
+Start SLS:2026-02-13 04:56:170.21045800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 04:56:170.50316100 
+Tuned in:2026-02-13 04:56:170.5045 
+Setting AST: 1770958580.9628 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:56:17.5045Z 
+TimeOffset: -3.9628336429596, Original time:1749494794 Updated time: 1749494790.0372
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 04:56:170.51766200 
+Channel: 2 
+PTP time:1770958631.2261 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 04:56:330.68055200 
+Start SLS:2026-02-13 04:56:330.82111700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 04:56:330.98001500 
+Tuned in:2026-02-13 04:56:330.9818 
+Setting AST: 1770958597.9261 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:56:33.9818Z 
+TimeOffset: -4.926130771637, Original time:1749494794 Updated time: 1749494789.0739
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 04:56:330.99647200 
+Channel: 5 
+PTP time:1770958648.6841 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:56:510.13692000 
+Start SLS:2026-02-13 04:56:510.28777600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:56:510.79555100 
+Tuned in:2026-02-13 04:56:510.7965 
+Setting AST: 1770958615.3841 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:56:51.7965Z 
+TimeOffset: -4.3841154575348, Original time:1749494742 Updated time: 1749494737.6159
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:56:510.80531800 
+Channel: 2 
+PTP time:1770958779.4163 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 04:59:010.85598200 
+Start SLS:2026-02-13 04:59:020.01280400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 04:59:020.50941700 
+Tuned in:2026-02-13 04:59:020.5108 
+Setting AST: 1770958746.1163 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:59:02.5108Z 
+TimeOffset: -4.1162822246552, Original time:1749494794 Updated time: 1749494789.8837
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 04:59:020.52465400 
+Channel: 5 
+PTP time:1770958793.1853 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 04:59:160.26430900 
+Start SLS:2026-02-13 04:59:160.38887500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 04:59:160.78533300 
+Tuned in:2026-02-13 04:59:160.7864 
+Setting AST: 1770958759.8853 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T04:59:16.7864Z 
+TimeOffset: -3.8853125572205, Original time:1749494742 Updated time: 1749494738.1147
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 04:59:160.79597100 
+Channel: 5 
+PTP time:1770958843.1581 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 05:00:050.59293300 
+Start SLS:2026-02-13 05:00:050.69283400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 05:00:060.26783000 
+Tuned in:2026-02-13 05:00:060.2688 
+Setting AST: 1770958809.8581 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T05:00:06.2688Z 
+TimeOffset: -3.8581359386444, Original time:1749494742 Updated time: 1749494738.1419
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 05:00:060.27854200 
+Channel: 2 
+PTP time:1770958879.8985 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-13 05:00:410.53966200 
+Start SLS:2026-02-13 05:00:410.69451200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-13 05:00:420.08536500 
+Tuned in:2026-02-13 05:00:420.0862 
+Setting AST: 1770958846.5985 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T05:00:42.0862Z 
+TimeOffset: -4.5984742641449, Original time:1749494794 Updated time: 1749494789.4015
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-13 05:00:420.09486500 
+Channel: 5 
+PTP time:1770958944.4556 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 05:01:460.90003400 
+Start SLS:2026-02-13 05:01:470.05358900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 05:01:470.27654700 
+Tuned in:2026-02-13 05:01:470.2774 
+Setting AST: 1770958911.1556 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T05:01:47.2774Z 
+TimeOffset: -4.155642747879, Original time:1749494742 Updated time: 1749494737.8444
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 05:01:470.28711500 
+Channel: 5 
+PTP time:1770958969.1042 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 05:02:110.45464800 
+Start SLS:2026-02-13 05:02:110.64989300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 05:02:110.89525300 
+Tuned in:2026-02-13 05:02:110.8974 
+Setting AST: 1770958935.6042 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T05:02:11.8974Z 
+TimeOffset: -4.6042129993439, Original time:1749494742 Updated time: 1749494737.3958
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 05:02:110.91379700 
+Channel: 5 
+PTP time:1770958982.2464 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-13 05:02:240.84208900 
+Start SLS:2026-02-13 05:02:240.96018700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-13 05:02:250.38378200 
+Tuned in:2026-02-13 05:02:250.3847 
+Setting AST: 1770958948.7464 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-13T05:02:25.3847Z 
+TimeOffset: -3.7464282512665, Original time:1749494742 Updated time: 1749494738.2536
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-13 05:02:250.39264500 
+Channel: 5 
+PTP time:1771429787.5532 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-18 15:49:110.58359400 
+Start SLS:2026-02-18 15:49:110.87173200 
+Channel: 5 
+PTP time:1771429870.2399 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-18 15:50:320.98941800 
+Start SLS:2026-02-18 15:50:330.20914000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-18 15:50:330.43550800 
+Tuned in:2026-02-18 15:50:330.4372 
+Setting AST: 1771429836.7399 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-18T15:50:33.4372Z 
+TimeOffset: -3.7399146556854, Original time:1749494742 Updated time: 1749494738.2601
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-18 15:50:330.46674800 
+Channel: 2 
+PTP time:1771429890.2293 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-18 15:50:520.86578800 
+Start SLS:2026-02-18 15:50:520.99286100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-18 15:50:530.57039500 
+Tuned in:2026-02-18 15:50:530.5716 
+Setting AST: 1771429856.7293 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-18T15:50:53.5716Z 
+TimeOffset: -3.7293438911438, Original time:1749494794 Updated time: 1749494790.2707
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-18 15:50:530.58481200 
+Channel: 5 
+PTP time:1771461593.1997 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-19 00:39:160.69868500 
+Start SLS:2026-02-19 00:39:160.80431300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-19 00:39:170.16565300 
+Tuned in:2026-02-19 00:39:170.168 
+Setting AST: 1771461559.6997 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-19T00:39:17.168Z 
+TimeOffset: -2.6997125148773, Original time:1749494742 Updated time: 1749494739.3003
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-19 00:39:170.19227700 
+Channel: 5 
+PTP time:1771952642.164 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-24 17:03:210.22777300 
+Start SLS:2026-02-24 17:03:210.42039200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-24 17:03:230.55950000 
+Tuned in:2026-02-24 17:03:230.5616 
+Setting AST: 1771952608.664 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-24T17:03:23.5616Z 
+TimeOffset: -5.6639769077301, Original time:1749494742 Updated time: 1749494736.336
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-24 17:03:230.58169000 
+Channel: 5 
+PTP time:1772129320.5573 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-26 18:07:590.60726900 
+Start SLS:2026-02-26 18:07:590.99608700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-26 18:08:010.28630900 
+Tuned in:2026-02-26 18:08:010.2876 
+Setting AST: 1772129287.0573 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-26T18:08:01.2876Z 
+TimeOffset: -6.0573289394379, Original time:1749494742 Updated time: 1749494735.9427
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-26 18:08:010.30892800 
+Channel: 5 
+PTP time:1772129390.184 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-26 18:09:090.22201500 
+Start SLS:2026-02-26 18:09:090.36778800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-26 18:09:100.31896300 
+Tuned in:2026-02-26 18:09:100.3201 
+Setting AST: 1772129356.684 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-26T18:09:10.3201Z 
+TimeOffset: -6.6839859485626, Original time:1749494742 Updated time: 1749494735.316
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-26 18:09:100.33095500 
+Channel: 5 
+PTP time:1772129555.1314 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-26 18:11:540.20461800 
+Start SLS:2026-02-26 18:11:540.40581700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-26 18:11:540.89707600 
+Tuned in:2026-02-26 18:11:540.8999 
+Setting AST: 1772129521.6314 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-26T18:11:54.8999Z 
+TimeOffset: -7.6313750743866, Original time:1749494742 Updated time: 1749494734.3686
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-26 18:11:540.92549000 
+Channel: 2 
+PTP time:1772129616.6985 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-26 18:12:550.74188600 
+Start SLS:2026-02-26 18:12:550.93070200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-26 18:12:560.45083600 
+Tuned in:2026-02-26 18:12:560.4521 
+Setting AST: 1772129583.1985 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-26T18:12:56.4521Z 
+TimeOffset: -7.1984770298004, Original time:1749494794 Updated time: 1749494786.8015
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-26 18:12:560.46245400 
+Channel: 5 
+PTP time:1772234673.1822 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:23:560.14055300 
+Start SLS:2026-02-27 23:23:560.47663700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:23:560.65993000 
+Tuned in:2026-02-27 23:23:560.661 
+Setting AST: 1772234639.6822 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:23:56.661Z 
+TimeOffset: -3.6822135448456, Original time:1749494742 Updated time: 1749494738.3178
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:23:560.67187000 
+Channel: 2 
+PTP time:1772234717.1467 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:24:390.78390800 
+Start SLS:2026-02-27 23:24:390.90654500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:24:400.51264500 
+Tuned in:2026-02-27 23:24:400.5133 
+Setting AST: 1772234683.6467 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:24:40.5133Z 
+TimeOffset: -3.6467106342316, Original time:1749494794 Updated time: 1749494790.3533
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:24:400.51980000 
+Channel: 5 
+PTP time:1772234751.7501 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:25:140.10124400 
+Start SLS:2026-02-27 23:25:140.32695800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:25:140.69195900 
+Tuned in:2026-02-27 23:25:140.6933 
+Setting AST: 1772234718.2501 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:25:14.6933Z 
+TimeOffset: -4.2501358985901, Original time:1749494742 Updated time: 1749494737.7499
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:25:140.70605500 
+Channel: 5 
+PTP time:1772234808.9963 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:26:110.32443500 
+Start SLS:2026-02-27 23:26:110.42473000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:26:120.13615600 
+Tuned in:2026-02-27 23:26:120.1367 
+Setting AST: 1772234775.2963 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:26:12.1367Z 
+TimeOffset: -3.2963354587555, Original time:1749494742 Updated time: 1749494738.7037
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:26:120.14168400 
+Channel: 2 
+PTP time:1772234883.9036 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:27:260.24372300 
+Start SLS:2026-02-27 23:27:260.40634900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:27:260.58963100 
+Tuned in:2026-02-27 23:27:260.5909 
+Setting AST: 1772234850.2036 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:27:26.5909Z 
+TimeOffset: -4.2036426067352, Original time:1749494794 Updated time: 1749494789.7964
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:27:260.60211900 
+Channel: 5 
+PTP time:1772235201.1623 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:32:430.93812100 
+Start SLS:2026-02-27 23:32:440.14447400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:32:450.21447400 
+Tuned in:2026-02-27 23:32:450.2163 
+Setting AST: 1772235167.4623 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:32:45.2163Z 
+TimeOffset: -2.4622540473938, Original time:1749494742 Updated time: 1749494739.5377
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:32:450.23729800 
+Channel: 5 
+PTP time:1772235387.5461 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:35:490.85963200 
+Start SLS:2026-02-27 23:35:490.95334300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:35:500.21686800 
+Tuned in:2026-02-27 23:35:500.2178 
+Setting AST: 1772235353.8461 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:35:50.2178Z 
+TimeOffset: -3.8461306095123, Original time:1749494742 Updated time: 1749494738.1539
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:35:500.22650100 
+Channel: 5 
+PTP time:1772235405.184 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:36:080.14297700 
+Start SLS:2026-02-27 23:36:080.25016600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:36:080.74158600 
+Tuned in:2026-02-27 23:36:080.7424 
+Setting AST: 1772235371.484 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:36:08.7424Z 
+TimeOffset: -3.4840281009674, Original time:1749494742 Updated time: 1749494738.516
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:36:080.75018400 
+Channel: 5 
+PTP time:1772235541.1647 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:38:230.93733800 
+Start SLS:2026-02-27 23:38:240.04734700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:38:240.23783500 
+Tuned in:2026-02-27 23:38:240.2391 
+Setting AST: 1772235507.4647 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:38:24.2391Z 
+TimeOffset: -3.4647145271301, Original time:1749494742 Updated time: 1749494738.5353
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:38:240.24883700 
+Channel: 5 
+PTP time:1772235593.1819 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:39:160.11470400 
+Start SLS:2026-02-27 23:39:160.22254000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:39:160.75253200 
+Tuned in:2026-02-27 23:39:160.7534 
+Setting AST: 1772235559.4819 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:39:16.7534Z 
+TimeOffset: -3.4818949699402, Original time:1749494742 Updated time: 1749494738.5181
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:39:160.76166200 
+Channel: 2 
+PTP time:1772235689.1432 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:40:510.71542600 
+Start SLS:2026-02-27 23:40:510.81226100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:40:520.03881400 
+Tuned in:2026-02-27 23:40:520.0398 
+Setting AST: 1772235655.4432 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:40:52.0398Z 
+TimeOffset: -3.4431641101837, Original time:1749494794 Updated time: 1749494790.5568
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:40:520.04771700 
+Channel: 5 
+PTP time:1772235745.1257 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:41:470.54674200 
+Start SLS:2026-02-27 23:41:470.68054000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:41:480.23292700 
+Tuned in:2026-02-27 23:41:480.2339 
+Setting AST: 1772235711.4257 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:41:48.2339Z 
+TimeOffset: -3.4256744384766, Original time:1749494742 Updated time: 1749494738.5743
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:41:480.24119800 
+Channel: 2 
+PTP time:1772235769.1616 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:42:110.90491700 
+Start SLS:2026-02-27 23:42:120.06539800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:42:120.55159600 
+Tuned in:2026-02-27 23:42:120.5526 
+Setting AST: 1772235735.4616 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:42:12.5526Z 
+TimeOffset: -3.4616281986237, Original time:1749494794 Updated time: 1749494790.5384
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:42:120.56043400 
+Channel: 2 
+PTP time:1772235784.2083 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:42:260.52810800 
+Start SLS:2026-02-27 23:42:260.68447900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:42:270.02603200 
+Tuned in:2026-02-27 23:42:270.0271 
+Setting AST: 1772235750.5083 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:42:27.0271Z 
+TimeOffset: -3.5082821846008, Original time:1749494794 Updated time: 1749494790.4917
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:42:270.03702200 
+Channel: 5 
+PTP time:1772235809.181 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:42:520.10879600 
+Start SLS:2026-02-27 23:42:520.23775100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:42:540.22327200 
+Tuned in:2026-02-27 23:42:540.224 
+Setting AST: 1772235775.481 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:42:54.224Z 
+TimeOffset: -1.4810130596161, Original time:1749494742 Updated time: 1749494740.519
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:42:540.23049500 
+Channel: 2 
+PTP time:1772235849.1193 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:43:310.49112300 
+Start SLS:2026-02-27 23:43:310.64294900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:43:320.02019100 
+Tuned in:2026-02-27 23:43:320.0212 
+Setting AST: 1772235815.4193 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:43:32.0212Z 
+TimeOffset: -3.4192745685577, Original time:1749494794 Updated time: 1749494790.5807
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:43:320.03129900 
+Channel: 5 
+PTP time:1772235860.9421 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:43:430.25650000 
+Start SLS:2026-02-27 23:43:430.40520900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:43:430.73945100 
+Tuned in:2026-02-27 23:43:430.7407 
+Setting AST: 1772235827.2421 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:43:43.7407Z 
+TimeOffset: -4.2421360015869, Original time:1749494742 Updated time: 1749494737.7579
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:43:430.75326700 
+Channel: 5 
+PTP time:1772235876.1676 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:43:580.48842000 
+Start SLS:2026-02-27 23:43:580.63556000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:44:010.22348700 
+Tuned in:2026-02-27 23:44:010.2241 
+Setting AST: 1772235842.4676 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:44:01.2241Z 
+TimeOffset: -1.4676425457001, Original time:1749494742 Updated time: 1749494740.5324
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:44:010.23075000 
+Channel: 5 
+PTP time:1772235978.2731 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:45:400.99884600 
+Start SLS:2026-02-27 23:45:410.13685800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:45:410.73443800 
+Tuned in:2026-02-27 23:45:410.7352 
+Setting AST: 1772235944.5731 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:45:41.7352Z 
+TimeOffset: -3.5730948448181, Original time:1749494742 Updated time: 1749494738.4269
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:45:410.74211100 
+Channel: 5 
+PTP time:1772236034.2961 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:46:370.21350200 
+Start SLS:2026-02-27 23:46:370.30410700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:46:370.74121300 
+Tuned in:2026-02-27 23:46:370.7419 
+Setting AST: 1772236000.5961 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:46:37.7419Z 
+TimeOffset: -3.5961282253265, Original time:1749494742 Updated time: 1749494738.4039
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:46:370.74896300 
+Channel: 5 
+PTP time:1772236059.6796 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:47:010.98815800 
+Start SLS:2026-02-27 23:47:020.08713900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:47:020.23533100 
+Tuned in:2026-02-27 23:47:020.2363 
+Setting AST: 1772236025.9796 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:47:02.2363Z 
+TimeOffset: -3.9796426296234, Original time:1749494742 Updated time: 1749494738.0204
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:47:020.24610500 
+Channel: 5 
+PTP time:1772236302.2718 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:51:040.96331900 
+Start SLS:2026-02-27 23:51:050.05399400 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:51:050.21490900 
+Tuned in:2026-02-27 23:51:050.2161 
+Setting AST: 1772236268.5718 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:51:05.2161Z 
+TimeOffset: -3.571813583374, Original time:1749494742 Updated time: 1749494738.4282
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:51:050.22676800 
+Channel: 2 
+PTP time:1772236367.2144 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:52:090.32856300 
+Start SLS:2026-02-27 23:52:090.51044100 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:52:100.01329600 
+Tuned in:2026-02-27 23:52:100.0145 
+Setting AST: 1772236333.5144 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:52:10.0145Z 
+TimeOffset: -3.5143783092499, Original time:1749494794 Updated time: 1749494790.4856
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:52:100.02471200 
+Channel: 2 
+PTP time:1772236428.5301 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:53:100.85428000 
+Start SLS:2026-02-27 23:53:110.31497700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:53:110.99893400 
+Tuned in:2026-02-27 23:53:120.0012 
+Setting AST: 1772236394.8301 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:53:12.0012Z 
+TimeOffset: -2.8301305770874, Original time:1749494794 Updated time: 1749494791.1699
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:53:120.02653100 
+Channel: 2 
+PTP time:1772236476.2351 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:53:580.53437300 
+Start SLS:2026-02-27 23:53:580.70320900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:53:590.02374900 
+Tuned in:2026-02-27 23:53:590.0329 
+Setting AST: 1772236443.5351 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:53:59.0329Z 
+TimeOffset: -4.5351052284241, Original time:1749494794 Updated time: 1749494789.4649
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:53:590.04985500 
+Channel: 2 
+PTP time:1772236513.2017 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:54:360.29323300 
+Start SLS:2026-02-27 23:54:360.38362500 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:54:360.54271300 
+Tuned in:2026-02-27 23:54:360.5439 
+Setting AST: 1772236478.5017 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:54:36.5439Z 
+TimeOffset: -2.5017282962799, Original time:1749494794 Updated time: 1749494791.4983
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:54:360.55443700 
+Channel: 2 
+PTP time:1772236533.1708 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:54:550.98113600 
+Start SLS:2026-02-27 23:54:560.11974800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:54:560.49876700 
+Tuned in:2026-02-27 23:54:560.5003 
+Setting AST: 1772236498.4708 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:54:56.5003Z 
+TimeOffset: -2.4708116054535, Original time:1749494794 Updated time: 1749494791.5292
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:54:560.51271800 
+Channel: 2 
+PTP time:1772236556.6231 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:55:180.92038800 
+Start SLS:2026-02-27 23:55:190.06398300 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:55:190.53119500 
+Tuned in:2026-02-27 23:55:190.5324 
+Setting AST: 1772236522.4231 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:55:19.5324Z 
+TimeOffset: -3.4231462478638, Original time:1749494794 Updated time: 1749494790.5769
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:55:190.54510000 
+Channel: 5 
+PTP time:1772236567.3821 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:55:290.67256000 
+Start SLS:2026-02-27 23:55:290.76481000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:55:300.21471800 
+Tuned in:2026-02-27 23:55:300.2154 
+Setting AST: 1772236533.1821 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:55:30.2154Z 
+TimeOffset: -3.1821358203888, Original time:1749494742 Updated time: 1749494738.8179
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:55:300.22208300 
+Channel: 2 
+PTP time:1772236593.1187 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:55:550.45354000 
+Start SLS:2026-02-27 23:55:550.56623600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:55:550.99981400 
+Tuned in:2026-02-27 23:55:560.0005 
+Setting AST: 1772236558.9187 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:55:56.0005Z 
+TimeOffset: -2.9187233448029, Original time:1749494794 Updated time: 1749494791.0813
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:55:560.00730800 
+Channel: 2 
+PTP time:1772236635.1847 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:56:370.48260400 
+Start SLS:2026-02-27 23:56:370.64285600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:56:380.01061200 
+Tuned in:2026-02-27 23:56:380.0117 
+Setting AST: 1772236600.9847 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:56:38.0117Z 
+TimeOffset: -2.9847450256348, Original time:1749494794 Updated time: 1749494791.0153
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:56:380.02356900 
+Channel: 2 
+PTP time:1772236663.8076 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:57:060.10019100 
+Start SLS:2026-02-27 23:57:060.26274700 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:57:060.53861400 
+Tuned in:2026-02-27 23:57:060.5398 
+Setting AST: 1772236629.1076 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:57:06.5398Z 
+TimeOffset: -3.1076426506042, Original time:1749494794 Updated time: 1749494790.8924
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:57:060.54981100 
+Channel: 5 
+PTP time:1772236680.6563 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:57:220.95781900 
+Start SLS:2026-02-27 23:57:230.15039800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:57:230.69123500 
+Tuned in:2026-02-27 23:57:230.692 
+Setting AST: 1772236645.9563 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:57:23.692Z 
+TimeOffset: -2.9562821388245, Original time:1749494742 Updated time: 1749494739.0437
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:57:230.69862900 
+Channel: 5 
+PTP time:1772236697.1123 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:57:390.39339100 
+Start SLS:2026-02-27 23:57:390.51907600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:57:390.70047000 
+Tuned in:2026-02-27 23:57:390.7018 
+Setting AST: 1772236662.4123 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:57:39.7018Z 
+TimeOffset: -3.4123232364655, Original time:1749494742 Updated time: 1749494738.5877
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:57:390.71402900 
+Channel: 2 
+PTP time:1772236733.1663 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:58:150.93705400 
+Start SLS:2026-02-27 23:58:160.09394000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:58:160.54062200 
+Tuned in:2026-02-27 23:58:160.5419 
+Setting AST: 1772236698.4663 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:58:16.5419Z 
+TimeOffset: -2.4663145542145, Original time:1749494794 Updated time: 1749494791.5337
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:58:160.55256400 
+Channel: 2 
+PTP time:1772236753.1151 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:58:350.41558000 
+Start SLS:2026-02-27 23:58:350.52575600 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:58:360.03463500 
+Tuned in:2026-02-27 23:58:360.0355 
+Setting AST: 1772236717.4151 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:58:36.0355Z 
+TimeOffset: -1.4151146411896, Original time:1749494794 Updated time: 1749494792.5849
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:58:360.04342300 
+Channel: 5 
+PTP time:1772236770.2634 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-02-27 23:58:520.87358100 
+Start SLS:2026-02-27 23:58:520.98942200 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-02-27 23:58:530.19144700 
+Tuned in:2026-02-27 23:58:530.1924 
+Setting AST: 1772236734.5634 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:58:53.1924Z 
+TimeOffset: -1.563384771347, Original time:1749494742 Updated time: 1749494740.4366
+responseToSend Channel: 5 Period count: 0
+Done:2026-02-27 23:58:530.20249900 
+Channel: 2 
+PTP time:1772236795.5549 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-02-27 23:59:170.85676600 
+Start SLS:2026-02-27 23:59:180.01137000 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-02-27 23:59:180.52118600 
+Tuned in:2026-02-27 23:59:180.5228 
+Setting AST: 1772236759.8549 
+Video Duration: Video Timescale:  
+Setting AST: 2026-02-27T23:59:18.5228Z 
+TimeOffset: -1.8549497127533, Original time:1749494794 Updated time: 1749494792.1451
+responseToSend Channel: 2 Period count: 0
+Done:2026-02-27 23:59:180.53656600 
+Channel: 5 
+PTP time:1772471707.8765 
+Loaded UTC offset:37 
+Read from SLT:239.101.69.1 172.16.200.1 8000 KSWB 69.1 
+Launching ROUTE:2026-03-02 17:14:260.91760600 
+Start SLS:2026-03-02 17:14:270.23197800 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content5\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494734410item-01item_Segment- 
+Start reading MPD:2026-03-02 17:14:270.81130300 
+Tuned in:2026-03-02 17:14:270.8124 
+Setting AST: 1772471672.1765 
+Video Duration: Video Timescale:  
+Setting AST: 2026-03-02T17:14:27.8124Z 
+TimeOffset: -5.1765348911285, Original time:1749494742 Updated time: 1749494736.8235
+responseToSend Channel: 5 Period count: 0
+Done:2026-03-02 17:14:270.82401300 
+Channel: 2 
+PTP time:1772471719.5745 
+Loaded UTC offset:37 
+Read from SLT:239.101.51.1 172.16.200.1 8000 KUSI 51.1 
+Launching ROUTE:2026-03-02 17:14:380.60930400 
+Start SLS:2026-03-02 17:14:380.76670900 
+Read Envelope:C:\Users\1000049321\Documents\Route_Receiver\Receiver\DASH_Content2\envelope.xml
+USBD filename 'usbd.rusd' S-TSID filename 'stsid.sls' MPD filename 'mpd.mpd' 
+MPD: mpd.mpd 
+S-TSID: stsid.sls 
+BaseURL: 1749494785692item-01item_Segment- 
+Start reading MPD:2026-03-02 17:14:390.39571900 
+Tuned in:2026-03-02 17:14:390.3969 
+Setting AST: 1772471683.8745 
+Video Duration: Video Timescale:  
+Setting AST: 2026-03-02T17:14:39.3969Z 
+TimeOffset: -4.8745069503784, Original time:1749494794 Updated time: 1749494789.1255
+responseToSend Channel: 2 Period count: 0
+Done:2026-03-02 17:14:390.40810700 
