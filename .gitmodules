@@ -1,3 +1,6 @@
 [submodule "Receiver/dash.js"]
 	path = Receiver/dash.js
 	url = https://github.com/dash-industry-forum/dash.js/
+[submodule "route"]
+	path = route
+	url = https://github.com/lukefay/route
