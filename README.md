@@ -6,9 +6,13 @@ Codec availability depends on browser choice and codec choice from the sender.  
 > MediaSource.isTypeSupported('audio/mp4; codecs=ac-4.02.01.00')
 
 This code includes Python and PHP scripts. Paths either assume direct access to executable directories or that the environment path has included those paths. Python executable is typically installed under a User AppData directory. Python exectuable absolute paths need to be set in the following files.
+
 Receiver/ProcessROUTE.php
+
 Receiver/updateTime.php
+
 Receiver/ReceiverConfig/onloadfunc.php
+
 Receiver/ReceiverConfig/updateTime.php
 
 For ATSC3, Dolby AC-4 codecs are not available in any browser and HEVC is only available on Chrome browsers (assuming the platform has appropriate hardware to support that codec). 
