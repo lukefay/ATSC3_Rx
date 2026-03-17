@@ -41,11 +41,11 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 $OriginalMPD= "ManifestUpdate_Dynamic.mpd";
 $AdMPDName="Ad2/Ad2_MultiRate.mpd";
 
-$Delay=-1.3;	#How much would the AST of the patched MPD be lagging the current system time, i.e. how far in future is the AST (in seconds)?
+$Delay=1.5;	#How much would the AST of the patched MPD be lagging the current system time, i.e. how far in future is the AST (in seconds)?
 $PatchedMPD="MultiRate_Dynamic_Patched.mpd";
 if (substr(php_uname(), 0, 7) == "Windows") {
-  $FLUTEReceiver="C:/Users/1000049321/Documents/Route_Receiver/Debug";
-  #$FLUTEReceiver="C:/Users/1000049321/Documents/Route_Receiver/Release";
+  $FLUTEReceiver=realpath("../route/Debug");
+  #$FLUTEReceiver=realpath("../route/Release");
 } else {
   $FLUTEReceiver="/var/www/html/Route_Receiver/bin";
 }
@@ -80,7 +80,8 @@ usleep(5000);
 #Start ROUTE Protocol operation by reading LLS @ 224.0.23.60:4937
 chdir('../Receiver/SLT_signalling');
 if (substr(php_uname(), 0, 7) == "Windows") {
-  $pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python38-32/python.exe";
+  #$pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python38-32/python.exe";
+  $pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python313/python.exe";
 } else {
   $pyth="/usr/bin/python";
 }
@@ -135,16 +136,16 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 }
 
 # Allow processing time to capture SLS / Get files through virus checkers
-#sleep(4);
+usleep(200000);	// Sleep 200msec to capture SLS
 
 $micro_date = microtime();
 $date_array = explode(" ",$micro_date);
 $date = date("Y-m-d H:i:s",$date_array[1]);
 file_put_contents ( "timelog.txt" , "Start SLS:" . $date . $date_array[0] . " \r\n" , FILE_APPEND );
 if (substr(php_uname(), 0, 7) == "Windows") {
-  while (!glob($DASHContent."\\"."sls")) usleep(5000);
+  while (!glob($DASHContent."\\"."sls")) usleep(1000);
 } else {
-  # while (!glob($DASHContent."/sls")) usleep(5000);
+  # while (!glob($DASHContent."/sls")) usleep(1000);
 }
 
 #Read the content from the envelope file to find contents of SLS
@@ -172,9 +173,9 @@ file_put_contents ( "timelog.txt" , "USBD filename '" . $USBDUri . "' S-TSID fil
 
 # Read the contents of the USBD file
 if (substr(php_uname(), 0, 7) == "Windows") {
-  while (!glob($DASHContent."\\".$USBDUri)) usleep(5000);
+  while (!glob($DASHContent."\\".$USBDUri)) usleep(1000);
 } else {
-  # while (!glob($DASHContent."/".$USBDUri)) usleep(5000);
+  # while (!glob($DASHContent."/".$USBDUri)) usleep(1000);
 }
 if (substr(php_uname(), 0, 7) == "Windows") {
   $BundleDescriptionROUTE = simplexml_load_file("$DASHContent" . "\\" . $USBDUri);
@@ -196,9 +197,9 @@ $date_array = explode(" ",$micro_date);
 $date = date("Y-m-d H:i:s",$date_array[1]);
 file_put_contents ( "timelog.txt" , "Start reading MPD:" . $date . $date_array[0] . " \r\n" , FILE_APPEND );
 if (substr(php_uname(), 0, 7) == "Windows") {
-  while (!glob($DASHContent."\\".$MPDUri)) usleep(5000);
+  while (!glob($DASHContent."\\".$MPDUri)) usleep(1000);
 } else {
-  # while (!glob($DASHContent."/".$MPDUri)) usleep(5000);
+  # while (!glob($DASHContent."/".$MPDUri)) usleep(1000);
 }
 
 #For using with the canned trace file, re-write the AST to current system time when MPD is received
@@ -214,8 +215,6 @@ $date_array = explode(" ",$micro_date);
 $date_array[0] = round($date_array[0],4);
 $date = date("Y-m-d H:i:s",$date_array[1]);
 file_put_contents ( "timelog.txt" , "Tuned in:" . $date . $date_array[0] . " \r\n" , FILE_APPEND );
-
-
 
 if (substr(php_uname(), 0, 7) == "Windows") {
   $MPD = simplexml_load_file("$DASHContent" . "\\" . $MPDUri);
@@ -270,12 +269,13 @@ $originalAST = new DateTime($MPD_AST);
 $deltaTimeASTTuneIn = $AST_SEC->getTimestamp() - $AST_BCST;  //Time elapsed between the original PHY time and Tune-in time
 
 
-#file_put_contents ( "timelog.txt" , "TimeOffset: " . $deltaTimeASTTuneIn . ", Original time:" . ($originalAST->getTimestamp() + $fracAST) . " Tune-in time: " . ($AST_SEC->getTimestamp() + round($date_array[0],4)) . "\r\n" , FILE_APPEND );
+file_put_contents ( "timelog.txt" , "TimeOffset: " . $deltaTimeASTTuneIn . ", Original time:" . ($originalAST->getTimestamp() + $fracAST) . " Tune-in time: " . ($AST_SEC->getTimestamp() + round($date_array[0],4)) . "\r\n" , FILE_APPEND );
 file_put_contents ( "timelog.txt" , "TimeOffset: " . $deltaTimeASTTuneIn . ", Original time:" . ($originalAST->getTimestamp()) . " Updated time: " . ($originalAST->getTimestamp() + $deltaTimeASTTuneIn) . "\r\n" , FILE_APPEND );
 
 $ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $deltaTimeASTTuneIn)) . "Z";
 #$MPDNode->setAttribute("availabilityStartTime",date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $deltaTimeASTTuneIn)) . "Z");    //Set AST to tune-in time
 $MPDNode->setAttribute("availabilityStartTime",str_replace(" ", "T", $ASTNew));    //Set AST to tune-in time
+$MPDNode->setAttribute("minBufferTime",str_replace(" ", "T", "PT0S"));    // Remove minBufferTime
 
 $responseToSend[1] = count($periods) - 1;
 
@@ -295,9 +295,6 @@ $date_array = explode(" ",$micro_date);
 $date = date("Y-m-d H:i:s",$date_array[1]);
 file_put_contents ( "timelog.txt" , "Done:" . $date . $date_array[0] . " \r\n" , FILE_APPEND );
 
-
-# Allow processing time to capture SLS / Get files through virus checkers
-sleep(3);
 
 function &parseMPD($docElement) {
 	foreach ($docElement->childNodes as $node) {
