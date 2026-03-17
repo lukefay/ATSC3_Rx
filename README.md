@@ -15,4 +15,4 @@ Receiver/ReceiverConfig/onloadfunc.php
 
 Receiver/ReceiverConfig/updateTime.php
 
-For ATSC3, Dolby AC-4 codecs are not available in any browser and HEVC is only available on Chrome browsers (assuming the platform has appropriate hardware to support that codec). 
+For ATSC3 in North America, be aware that Dolby AC-4 codecs are not available in any browser and HEVC was only tested on Chrome browser on a later model PC (assuming the platform has appropriate hardware to support that codec).  Also note that IMSC1 captions decoding also requires a decoder codec available to the browser.
