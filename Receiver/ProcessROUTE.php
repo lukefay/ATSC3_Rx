@@ -41,7 +41,12 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 $OriginalMPD= "ManifestUpdate_Dynamic.mpd";
 $AdMPDName="Ad2/Ad2_MultiRate.mpd";
 
-$Delay=1.5;	#How much would the AST of the patched MPD be lagging the current system time, i.e. how far in future is the AST (in seconds)?
+$init = "*init.m4i";
+$segTemplateAudio = "*.m4a";
+$segTemplateVideo = "*.m4v";
+$segTemplateCaptions = "*.m4s";
+
+$Delay=-1.9;	#How much would the AST of the patched MPD be lagging the current system time, i.e. how far in future is the AST (in seconds)?
 $PatchedMPD="MultiRate_Dynamic_Patched.mpd";
 if (substr(php_uname(), 0, 7) == "Windows") {
   $FLUTEReceiver=realpath("../route/Debug");
@@ -203,12 +208,12 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 }
 
 #For using with the canned trace file, re-write the AST to current system time when MPD is received
-#while (!glob($DASHContent."/".$initAudio)) usleep(5000);
-#while (!glob($DASHContent."/".$initVideo)) usleep(5000);
+#while (!glob($DASHContent."/".$init)) usleep(5000);
 #while (count(glob($DASHContent."/".$segTemplateAudio)) < 3) usleep(5000);
 #while (count(glob($DASHContent."/".$segTemplateVideo)) < 3) usleep(5000);
+#while (count(glob($DASHContent."/".$segTemplateCaptions)) < 3) usleep(5000);
 
-
+Sleep(5);	// Let ROUTE process fill some DASH segments.
 
 $micro_date = microtime();
 $date_array = explode(" ",$micro_date);

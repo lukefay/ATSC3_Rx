@@ -19,7 +19,7 @@ Start a channel before
 	
 	<div id="video-container" style="background-image: url(thumbs/background.png); height: 540px; width: 960px;">
 		<!-- Video -->
-		<video data-dashjs-player autoplay id="videoPlayer" width="960" height="540" onplay="playEvent()" controls>
+		<video id="video" width="960" height="540" onplay="playEvent()">
 		  <p>
 		    Your browser doesn't support HTML5 video.
 		  </p>
@@ -33,7 +33,6 @@ Start a channel before
 			<img src="thumbs/Progress_bar.gif" id="progress" alt="Status" style="width:720px;height:12px;position:absolute;left: 215px;top: 10px;">
 		</div>
 	</div>
-	<script src="./dash.all.min.js"></script>
 	<section>
 	  <pre id="log"></pre>
 	</section>
@@ -56,6 +55,7 @@ Start a channel before
   </body>
 </html>
 
+<script src="./dash.all.min.js"></script>
 <script src="jquery-1.11.1.min.js"></script>
 <script type="text/javascript">
 	var player;
@@ -147,7 +147,9 @@ Start a channel before
 		//player= new MediaPlayer(context);
 		//player.startup();
 		//player.attachView(video);
-		var player = dashjs.MediaPlayer().create();
+		player = new dashjs.MediaPlayer().create();
+		player.initialize(document.querySelector("video"), null, false);
+		//player.reset();
 		
 		// Buttons
 		var playButton = document.getElementById("play-pause");
@@ -226,19 +228,19 @@ Start a channel before
 			console.log("#### " + msg);
 			//videoEventTag.value += msg;
 		}
-		videoPlayer.addEventListener('loadstart', function(video, e) {showEvent("loadstart");});
-		videoPlayer.addEventListener('loadedmetadata', function(video, e) {showEvent("loadedmetadata");});
-		videoPlayer.addEventListener('loadeddata', function(video, e) {showEvent("loadeddata");});
-		videoPlayer.addEventListener('canplay', function(video, e) {showEvent("canplay");});
-		videoPlayer.addEventListener('canplaythrough', function(video, e) {showEvent("canplaythrough");});
-		videoPlayer.addEventListener('playing', playingNow);
-		videoPlayer.addEventListener('progress', function(video, e) {
+		video.addEventListener('loadstart', function(video, e) {showEvent("loadstart");});
+		//video.addEventListener('loadedmetadata', function(video, e) {showEvent("loadedmetadata");});
+		//video.addEventListener('loadeddata', function(video, e) {showEvent("loadeddata");});
+		video.addEventListener('canplay', function(video, e) {showEvent("canplay");});
+		video.addEventListener('canplaythrough', function(video, e) {showEvent("canplaythrough");});
+		video.addEventListener('playing', playingNow);
+		video.addEventListener('progress', function(video, e) {
 			 showEvent("progress");
 		});
 		
 		//contentListTag.addEventListener('change', function () {
 		//	console.log("### content changed");
-		//	videoPlayer.pause();
+		//	video.pause();
 		//});
 		
 		//start(1);
@@ -299,7 +301,7 @@ Start a channel before
 			data: {averageTuneInDuration: JSON.stringify(averageTuneInDuration)},
 		});
 		//file_put_contents("test.txt","The average tune-in duration for " + totalChannelChanges + " switching is " + averageTuneIn + " seconds.");
-		videoPlayer.pause();
+		video.pause();
 		}
 		var timeNow = Date.now();
 		totalSwitchingDuration += (timeNow - switchStartTime);
@@ -314,7 +316,7 @@ Start a channel before
 		else
 			setTimeout(function () {start(1)}, nextChangeDelay);
 		
-		//videoPlayer.pause();
+		//video.pause();
 	 }
 	 
 	var alternateServerIP = "";
@@ -335,8 +337,8 @@ Start a channel before
 		switchStartTime = Date.now();
 		console.log("****************************Starting Channel " + channel + " " + timeNow + timeNow.getMilliseconds() + " ****************************");
 		var video = document.getElementById("video");
-		//videoPlayer.pause();
-		//player.attachSource(null);
+		video.pause();
+		player.attachSource(null);
 		var img = document.getElementById('progress');
 		img.style.visibility = 'hidden';
 		
@@ -396,28 +398,36 @@ Start a channel before
 				// Start player
 				var timeNow = new Date();
 				console.log("*********** Instructing to play MPD: " + mpdURL + " " + timeNow + timeNow.getMilliseconds());
-				var video = document.querySelector('video');
-				var player = dashjs.MediaPlayer().create();
-				player.updateSettings({ // Player v4 livestreams
+				// player.initialize(document.querySelector("video"), mpdURL, true);
+				player.initialize(video);
+				player.attachSource(mpdURL);
+				player.setAutoPlay(true);
+				player.updateSettings({ // Player v5 livestreams
 					'streaming': {
 						'buffer': {
 							'bufferPruningInterval': 6,
-							'bufferToKeep': 8,
-							//'stableBufferTime': 10,
-							'bufferTimeAtTopQuality': 10,
-							'bufferTimeAtTopQualityLongForm': 10,
+							'bufferToKeep': 8,	// max time to keep in the buffer (seconds)
+							//'stableBufferTime': 10,	// used in version 4, not 5
+							'bufferTimeAtTopQuality': 10,	// buffer target when playing at top quality (seconds)
+							'bufferTimeAtTopQualityLongForm': 10,	// buffer target for long-form content (seconds)
+							'bufferTimeDefault': 8,	// buffer default target when not at top quality (seconds)
+							'longFormContentDurationThreshold': 300, // Content duration threshold for 'long form' (seconds)
 							'enableSeekDecorrelationFix': true,
-							'fastSwitchEnabled': false	// this is important if you see stuttering and random stalls
+							'fastSwitchEnabled': true	// this is important if you see stuttering and random stalls
 						},
+						'delay': {
+							'liveDelayFragmentCount': 1,
+							'liveDelay': NaN,
+							'useSuggestedPresentationDelay': false
+						}
 					}
 				})
-				player.initialize(video);
-				player.setAutoPlay(true);
-				player.attachSource(mpdURL);
+				var duration = player.duration();
+				player.seek(duration - 4);	// 4 seconds off the live edge
 				var captions = document.querySelector('application');
 				player.initialize(document.querySelector("captions"), mpdURL, true);
 				player.attachTTMLRenderingDiv(mpdURL);
-				//videoPlayer.play();
+				
 				// Enable captions rendering
 				player.setTextDefaultEnabled(true);
 				// Listen for available text tracks
@@ -475,10 +485,8 @@ Start a channel before
 	}
 	function replay(mpdURL) {
 		var video = document.getElementById("video");
-		//videoPlayer.pause();
-		//player.attachSource(null);	
-		player.reset(); // Reset player
-		player.initialize(document.querySelector("video"), "mpdURL", true);
+		video.pause();
+		player.attachSource(null);	
 		var timeNow = new Date();
 		console.log("*********** Replaying MPD: " + mpdURL + timeNow + timeNow.getMilliseconds());
 		//$.post(
@@ -486,7 +494,7 @@ Start a channel before
 		//	{mpd:mpdURL}
 		//);
 		player.attachSource(mpdURL);
-		videoPlayer.play();	
+		video.play();	
 	}
 	 
 	function Logger(id) {
@@ -540,9 +548,9 @@ Start a channel before
 		
 		if(document.getElementById('settingsbtn').style.visibility !== 'hidden') start(udchannel);
 	}
-	       
+	
 	$('#video-container').append(document.getElementById('settingsDiv'));  
-	     
+	
 	//Function for the player settings button.
 	function settingsPlayer() {
 		// var audio_num_list_entries=3;
@@ -619,5 +627,4 @@ Start a channel before
 		 }
 		 else switchAudio = false;
 	}
-
 </script>
