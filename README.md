@@ -1,7 +1,7 @@
 # ATSC3_Rx
 ATSC 3.0 receiver that uses ROUTE protocol to collect DASH segments from IP streams and render video on a browser that points to Apache 2.4 server containing recovered DASH segments. This is updated code that originally came from Thomas Stockhammer, available at https://github.com/haudiobe/ATSC_ROUTE. Architecture behind this code is described at that URL where Apache 2.4 server code runs the ROUTE protocol to collect files (e.g., DASH segments) and serve them to a browser. 
 
-This code was tested with a variety of IP stream sources. Alignment of segment availability time from the source to Availability Start Time (AST) in the DASH manifest is a factor and line 44 of ProcessROUTE.php file ($Delay variable) can be used accordingly.  There is internal code to look for PTP time at UDP address 224.0.1.129:8000 but if not available it will use system time.
+This code was tested with a variety of IP stream sources. Alignment of segment availability time from the source to Availability Start Time (AST) in the DASH manifest is automatically factored into AST modifications. There is internal code to look for PTP time at UDP address 224.0.1.129:8000 but if not available it will use system time.
 
 Point browser to Receiver/index.html  Code should automatically search for SLT at UDP 224.0.23.60:4937.  If not available, page will be blank.  If SLT is found, a list of available channels will populate the channel list.  Select desired channel, playback should begin.
 
