@@ -11,8 +11,6 @@ header('Content-Type: text/event-stream');
 // recommended to prevent caching of event data.
 header('Cache-Control: no-cache');
 
-//sleep(1); 
-
 $SLTxml="SLT_signalling/SLT.xml";
 
 $SLT = simplexml_load_file($SLTxml);

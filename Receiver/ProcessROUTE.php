@@ -68,19 +68,12 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 } else {
   array_map('unlink', glob("$DASHContent/*"));
 }
-#In case previous instances are running, stop them
-if (substr(php_uname(), 0, 7) == "Windows") {
-  exec("taskkill /F /IM flute.exe /T");
-} else {
-  exec("sudo killall flute -w" . " > /dev/null &");
-}
-usleep(5000);
 
 #Start ROUTE Protocol operation by reading LLS @ 224.0.23.60:4937
 chdir('../Receiver/SLT_signalling');
 if (substr(php_uname(), 0, 7) == "Windows") {
-  #$pyth="C:/Users/luke/AppData/Local/Programs/Python/Python38-32/python.exe";
-  $pyth="C:/Users/luke/AppData/Local/Programs/Python/Python313/python.exe";
+  #$pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python38-32/python.exe";
+  $pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python313/python.exe";
 } else {
   $pyth="/usr/bin/python";
 }
@@ -93,7 +86,7 @@ $majorCH=$result[4];
 $minorCH=$result[5];
 
 # Read PTP time from the PHY
-json_decode(shell_exec("$pyth time.py"), true);
+#json_decode(shell_exec("$pyth time.py"), true);
 $PTP = floatval(file_get_contents("PTP_TIME.dat"));
 if (!$PTP) die("Failed loading PTP time");
 
@@ -141,9 +134,9 @@ file_put_contents ( "timelog.txt" , "Start SLS:" . $date . $date_array[0] . " \r
 
 # Allow processing time to capture SLS / Get files through virus checkers
 if (substr(php_uname(), 0, 7) == "Windows") {
-  while (!glob($DASHContent."\\"."sls")) usleep(5000);	// wait to collect SLS file
+  while (!glob($DASHContent."\\"."sls")) usleep(1000);	// wait to collect SLS file
 } else {
-  while (!glob($DASHContent."/"."sls")) usleep(5000);
+  while (!glob($DASHContent."/"."sls")) usleep(1000);
 }
 
 #Read the content from the envelope file to find contents of SLS
@@ -171,9 +164,9 @@ file_put_contents ( "timelog.txt" , "USBD filename '" . $USBDUri . "' S-TSID fil
 
 # Read the contents of the USBD file
 if (substr(php_uname(), 0, 7) == "Windows") {
-  while (!glob($DASHContent."\\".$USBDUri)) usleep(1000);	// Wait to collect the file
+  //while (!glob($DASHContent."\\".$USBDUri)) usleep(1000);	// Wait to collect the file
 } else {
-  while (!glob($DASHContent."/".$USBDUri)) usleep(1000);
+  //while (!glob($DASHContent."/".$USBDUri)) usleep(1000);
 }
 if (substr(php_uname(), 0, 7) == "Windows") {
   $BundleDescriptionROUTE = simplexml_load_file("$DASHContent" . "\\" . $USBDUri);
@@ -195,18 +188,18 @@ $date_array = explode(" ",$micro_date);
 $date = date("Y-m-d H:i:s",$date_array[1]);
 file_put_contents ( "timelog.txt" , "Start reading MPD:" . $date . $date_array[0] . " \r\n" , FILE_APPEND );
 if (substr(php_uname(), 0, 7) == "Windows") {
-  while (!glob($DASHContent."\\".$MPDUri)) usleep(1000);	// Wait to collect the file
+  //while (!glob($DASHContent."\\".$MPDUri)) usleep(1000);	// Wait to collect the file
 } else {
-  while (!glob($DASHContent."/".$MPDUri)) usleep(1000);
+  //while (!glob($DASHContent."/".$MPDUri)) usleep(1000);
 }
 
 # Allow processing time to capture Segments
 if (substr(php_uname(), 0, 7) == "Windows") {
-  while (!glob($DASHContent."\\".$init)) usleep(5000);	// wait to collect the file
-  while (count(glob($DASHContent."\\".$segTemplate[1])) < 2) usleep(5000);	// Wait to collect 2 segments
+  //while (!glob($DASHContent."\\".$init)) usleep(1000);	// wait to collect the file
+  while (count(glob($DASHContent."\\".$segTemplate[1])) < 2) usleep(1000);	// Wait to collect more than 2 segment
 } else {
-  while (!glob($DASHContent."/".$init)) usleep(5000);	// wait to collect the file
-  while (count(glob($DASHContent."/".$segTemplate[1])) < 2) usleep(5000);	// Wait to collect 2 segments
+  //while (!glob($DASHContent."/".$init)) usleep(1000);	// wait to collect the file
+  while (count(glob($DASHContent."/".$segTemplate[1])) < 2) usleep(1000);	// Wait to collect more than 2 segment
 }
 
 if (substr(php_uname(), 0, 7) == "Windows") {
@@ -244,17 +237,17 @@ $tuneInPeriodStart = 0;
 $MPDNode = &$periods[0]['node']->parentNode;
 
 $AST_BCST = $PTP - $ST_UTC - $Delay;
-file_put_contents ( "timelog.txt" , "Broadcast AST: " . $AST_BCST . " \r\n" , FILE_APPEND );
+file_put_contents ( "timelog.txt" , "Broadcast AST: " . $AST_BCST . "\r\n" , FILE_APPEND );
 
 $AST_SEC = new DateTime( 'now',  new DateTimeZone( 'UTC' ) );	/* initializer for availability start time */
 $AST_SEC->setTimestamp($date_array[1]);    //Better use a single time than now above
 #$AST_SEC->add(new DateInterval('PT1S'));
 $AST_SEC_W3C = $AST_SEC->format(DATE_W3C);
 
-#preg_match('/\.\d*/',$date_array[0],$dateFracPart);
-#$extension_pos = strrpos($AST_SEC_W3C, '+'); // find position of the last + in W3C date to slip frac seconds
-#$AST_W3C = substr($AST_SEC_W3C, 0, $extension_pos) . $dateFracPart[0] . "Z" ; //substr($AST_SEC_W3C, $extension_pos);
-#file_put_contents ( "timelog.txt" , "Setting AST: " . $AST_W3C . " \r\n" , FILE_APPEND );
+preg_match('/\.\d*/',$date_array[0],$dateFracPart);
+$extension_pos = strrpos($AST_SEC_W3C, '+'); // find position of the last + in W3C date to slip frac seconds
+$AST_W3C = substr($AST_SEC_W3C, 0, $extension_pos) . $dateFracPart[0] . "Z" ; //substr($AST_SEC_W3C, $extension_pos);
+file_put_contents ( "timelog.txt" , "Setting AST: " . $AST_W3C . " \r\n" , FILE_APPEND );
 
 #For using with the canned trace file, re-write the AST to current system time when MPD is received
 $MPD_AST = $MPDNode->getAttribute("availabilityStartTime");
@@ -268,8 +261,9 @@ $deltaTimeASTTuneIn = $AST_SEC->getTimestamp() - $AST_BCST;  //Time elapsed betw
 #file_put_contents ( "timelog.txt" , "TimeOffset: " . $deltaTimeASTTuneIn . ", Original time:" . ($originalAST->getTimestamp() + $fracAST) . " Tune-in time: " . ($AST_SEC->getTimestamp() + round($date_array[0],4)) . "\r\n" , FILE_APPEND );
 file_put_contents ( "timelog.txt" , "TimeOffset: " . $deltaTimeASTTuneIn . ", Original time:" . ($originalAST->getTimestamp()) . " Updated time: " . ($originalAST->getTimestamp() + $deltaTimeASTTuneIn) . "\r\n" , FILE_APPEND );
 
-$ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $Delay/2)) . "Z";
+$ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $Delay/4)) . "Z";
 #$ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() - $deltaTimeASTTuneIn)) . "Z";
+#$ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $deltaTimeASTTuneIn/4)) . "Z";
 #$MPDNode->setAttribute("availabilityStartTime",date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $deltaTimeASTTuneIn)) . "Z");    //Set AST to tune-in time
 $MPDNode->setAttribute("availabilityStartTime",str_replace(" ", "T", $ASTNew));    //Set AST to tune-in time
 $MPDNode->setAttribute("minBufferTime",str_replace(" ", "T", "PT0S"));    // Remove minBufferTime

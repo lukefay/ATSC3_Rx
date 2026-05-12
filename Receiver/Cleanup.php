@@ -3,9 +3,10 @@
 /* 
 Clean up processes
  */
-
-exec("sudo killall flute -w");
-//exec("taskkill /IM flute.exe /F");
-exec("taskkill /F /IM flute.exe /T");
+if (substr(php_uname(), 0, 7) == "Windows") {
+  exec("taskkill /F /IM flute.exe /T");
+} else {
+  exec("sudo killall flute -w" . " > /dev/null &");
+}
 
 ?>

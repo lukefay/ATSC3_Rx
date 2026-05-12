@@ -309,8 +309,9 @@ Start a channel before
 		//status.innerHTML="Total time in switches: " + (totalSwitchingDuration/1000).toFixed(2) + " sec, Switches: " + totalChannelChanges + ", " 
 		//        + (totalSwitchingDuration/(totalChannelChanges*1000)).toFixed(2) + " seconds for switch, " 
 		//        + (totalTuneinDuration/(totalChannelChanges*1000)).toFixed(2) + " seconds for tune in";
-		var timeNow = Date.now();        
-		var nextChangeDelay = Math.ceil(timeNow/1000)*1000 - timeNow + Math.random()*1000;
+		var timeNow = Date.now();
+		//var nextChangeDelay = Math.ceil(timeNow/1000)*1000 - timeNow + Math.random()*1000;
+		var nextChangeDelay = 0;
 		if(udchannel == 1)
 			setTimeout(function () {start(2)}, nextChangeDelay);
 		else
@@ -367,97 +368,108 @@ Start a channel before
 		
 		
 		//Make sure no flute process is running
-		$.post(
-			"Cleanup.php",
-			{channel:channel},
-			function(response) {
-				console.log("Cleaned up previous FLUTE sessions" + response);
-			}
-		);
+		//$.post(
+		//	"Cleanup.php",
+		//	{channel:channel},
+		//	function(response) {
+		//		console.log("Cleaned up previous FLUTE sessions" + response);
+		//	}
+		//);
+		$.ajax({
+			type: 'POST',
+			url: "Cleanup.php",
+			datatype: "json",
+			data: {channel:channel}
+		}).done( function(response) {
+			console.log("Cleaned up previous FLUTE sessions" + response);
+		});
 		
 		// Start flute process for a channel
-		$.post(
-			"ProcessROUTE.php",
-			{channel:channel},
-			function(response) {
-				totalTuneinDuration += (Date.now() - switchStartTime);
-				//result = JSON.parse(response);
-				var DASHContentBase="DASH_Content";
-				var DASHContentDir= DASHContentBase + channel;
-				var patchedMPD="MultiRate_Dynamic_Patched.mpd";
-				var scriptPath = document.URL;
-				var scriptFolder = scriptPath.substr(0, scriptPath.lastIndexOf( '/' )+1 );
-				var mpdURL = scriptFolder + DASHContentDir + "/" + patchedMPD;
-				// By this response, MPD is found, start playback
-				console.log("Found MPD, start playback");
-				//console.log(response);
-				logger.clear();
-				logger.log("Tuned in, buffering ...");
-				//console.log("The total-tune-in-duration is " + totalTuneinDuration);
-				
-				// Start player
-				var timeNow = new Date();
-				console.log("*********** Instructing to play MPD: " + mpdURL + " " + timeNow + timeNow.getMilliseconds());
-				// player.initialize(document.querySelector("video"), mpdURL, true);
-				player.initialize(video);
-				player.attachSource(mpdURL);
-				player.setAutoPlay(true);
-				player.updateSettings({ // Player v5 livestreams
-					'streaming': {
-						'buffer': {
-							'bufferPruningInterval': 6,
-							'bufferToKeep': 8,	// max time to keep in the buffer (seconds)
-							//'stableBufferTime': 10,	// used in version 4, not 5
-							'bufferTimeAtTopQuality': 10,	// buffer target when playing at top quality (seconds)
-							'bufferTimeAtTopQualityLongForm': 10,	// buffer target for long-form content (seconds)
-							'bufferTimeDefault': 8,	// buffer default target when not at top quality (seconds)
-							'longFormContentDurationThreshold': 300, // Content duration threshold for 'long form' (seconds)
-							'enableSeekDecorrelationFix': true,
-							'fastSwitchEnabled': true	// this is important if you see stuttering and random stalls
-						},
-						'delay': {
-							'liveDelayFragmentCount': 1,
-							'liveDelay': NaN,
-							'useSuggestedPresentationDelay': false
-						}
-					}
-				})
-				var duration = player.duration();
-				player.seek(duration - 4);	// 4 seconds off the live edge
-				var captions = document.querySelector('application');
-				player.initialize(document.querySelector("captions"), mpdURL, true);
-				player.attachTTMLRenderingDiv(mpdURL);
-				
-				// Enable captions rendering
-				player.setTextDefaultEnabled(true);
-				// Listen for available text tracks
-				player.on(dashjs.MediaPlayer.events.TEXT_TRACKS_ADDED, function (e) {
-					console.log("Available text tracks:", e.tracks);
-					
-					// Automatically select the first available caption track
-					if (e.tracks.length > 0) {
-						player.setTextTrack(e.tracks[0].index);
-					}
-				});
-				//setTimeout(function () {window.open("dash.js/samples/dash-if-reference-player/index.html?url=" + mpdURL)}, 0);
-				monitoringTime = 0;
-				monitorProcess = setInterval(function () {monitor404Errors(mpdURL)}, monitoringInterval);
-				fragmentErrorRegistry = [];
-				fragmentLoadErrorCount = 0;
-				
-				if(reTuneAtAd && result[1] > 0) {
-					for(var index = 0, processStarted = 0 ; index < (result.length - 2) ; index++) {
-						if(result[index+2] == 0) continue;
-						
-						reTuneProcess[processStarted] = setTimeout(function () {replay(mpdURL)}, result[index+2]*1000);
-						processStarted = processStarted + 1;
+		//$.post(
+		//	"ProcessROUTE.php",
+		//	{channel:channel},
+		$.ajax({
+			type: 'POST',
+			url: "ProcessROUTE.php",
+			datatype: "json",
+			data: {channel:channel}
+		}).done( function(response) {
+			totalTuneinDuration += (Date.now() - switchStartTime);
+			//result = JSON.parse(response);
+			var DASHContentBase="DASH_Content";
+			var DASHContentDir= DASHContentBase + channel;
+			var patchedMPD="MultiRate_Dynamic_Patched.mpd";
+			var scriptPath = document.URL;
+			var scriptFolder = scriptPath.substr(0, scriptPath.lastIndexOf( '/' )+1 );
+			var mpdURL = scriptFolder + DASHContentDir + "/" + patchedMPD;
+			// By this response, MPD is found, start playback
+			console.log("Found MPD, start playback");
+			//console.log(response);
+			logger.clear();
+			logger.log("Tuned in, buffering ...");
+			//console.log("The total-tune-in-duration is " + totalTuneinDuration);
+			
+			// Start player
+			var timeNow = new Date();
+			console.log("*********** Instructing to play MPD: " + mpdURL + " " + timeNow + timeNow.getMilliseconds());
+			// player.initialize(document.querySelector("video"), mpdURL, true);
+			player.initialize(video);
+			player.attachSource(mpdURL);
+			player.setAutoPlay(true);
+			player.updateSettings({ // Player v5 livestreams
+				'streaming': {
+					'buffer': {
+						'bufferPruningInterval': 6,
+						'bufferToKeep': 8,	// max time to keep in the buffer (seconds)
+						//'stableBufferTime': 10,	// used in version 4, not 5
+						'bufferTimeAtTopQuality': 10,	// buffer target when playing at top quality (seconds)
+						'bufferTimeAtTopQualityLongForm': 10,	// buffer target for long-form content (seconds)
+						'bufferTimeDefault': 8,	// buffer default target when not at top quality (seconds)
+						'longFormContentDurationThreshold': 300, // Content duration threshold for 'long form' (seconds)
+						'enableSeekDecorrelationFix': true,
+						'fastSwitchEnabled': true	// this is important if you see stuttering and random stalls
+					},
+					'delay': {
+						'liveDelayFragmentCount': 1,
+						'liveDelay': NaN,
+						'useSuggestedPresentationDelay': false
 					}
 				}
-				//switchChannel();
-				
-			}
+			});
+			//var duration = player.duration();
+			//player.seek(duration - 4);	// 4 seconds off the live edge
+			var captions = document.querySelector('application');
+			player.initialize(document.querySelector("captions"), mpdURL, true);
+			player.attachTTMLRenderingDiv(mpdURL);
 			
-		);
+			// Enable captions rendering
+			player.setTextDefaultEnabled(true);
+			// Listen for available text tracks
+			player.on(dashjs.MediaPlayer.events.TEXT_TRACKS_ADDED, function (e) {
+				console.log("Available text tracks:", e.tracks);
+				
+				// Automatically select the first available caption track
+				if (e.tracks.length > 0) {
+					player.setTextTrack(e.tracks[0].index);
+				}
+			});
+			//setTimeout(function () {window.open("dash.js/samples/dash-if-reference-player/index.html?url=" + mpdURL)}, 0);
+			monitoringTime = 0;
+			//monitorProcess = setInterval(function () {monitor404Errors(mpdURL)}, monitoringInterval);
+			//fragmentErrorRegistry = [];
+			//fragmentLoadErrorCount = 0;
+			
+			//if(reTuneAtAd && result[1] > 0) {
+			//	for(var index = 0, processStarted = 0 ; index < (result.length - 2) ; index++) {
+			//		if(result[index+2] == 0) continue;
+			//		
+			//		reTuneProcess[processStarted] = setTimeout(function () {replay(mpdURL)}, result[index+2]*1000);
+			//		processStarted = processStarted + 1;
+			//	}
+			//}
+			//switchChannel();
+			
+		});
 		
 		
 		logger.clear();
