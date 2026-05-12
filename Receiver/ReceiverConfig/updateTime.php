@@ -47,9 +47,6 @@ if (!$ST) die("Failed loading XML file");
 
 $ST_UTC = intval($ST['currentUtcOffset']);
 
-usleep(1000);
-
-
 $AST_BCST = $PTP - $ST_UTC - $Delay;
 
 preg_match('/\.\d*/',$date_array[0],$dateFracPart);
@@ -83,8 +80,6 @@ $ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $deltaTimeASTTuneI
 $MPDNode->setAttribute("availabilityStartTime",str_replace(" ", "T", $ASTNew));    //Set AST to tune-in time
 
 $dom->save($DASHContent . "\\" . $MPD);
-
-usleep(1000);
 
 chdir('../../');
 
