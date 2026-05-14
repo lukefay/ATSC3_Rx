@@ -15,7 +15,7 @@ exec("taskkill /IM python.exe /F");
 exec("taskkill /IM python3 /F");
 
 if (substr(php_uname(), 0, 7) == "Windows") {
-  $pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python38-32/python.exe";
+  $pyth="C:/Users/luke/AppData/Local/Programs/Python/Python38-32/python.exe";
 } else {
   $pyth="/usr/bin/python";
 }
