@@ -23,8 +23,8 @@ sock.bind(('', mcast_port))
 # on all interfaces.
 mreq = struct.pack("=4sl", socket.inet_aton(mcast_addr), socket.INADDR_ANY)
 sock.setsockopt(socket.IPPROTO_IP, socket.IP_ADD_MEMBERSHIP, mreq)
-# set a timeout value of 5 seconds (LLS shall be within 5 seconds)
-sock.settimeout(5)
+# set a timeout value of 7 seconds (LLS shall be within 7 seconds)
+sock.settimeout(7)
 
 ## ***********
 ## DEBUG
@@ -63,7 +63,7 @@ sock.settimeout(5)
 
 i = 0
 loop = 0
-while loop < 6: # there are 6 tables
+while loop < 7: # there are 7 tables
 	respfile = open("LLS.dat","wb")
 	response, server = sock.recvfrom(8192)
 	#response = sock.recv(8192, 0x40) # 0x40 = MSG_DONTWAIT a.k.a. O_NONBLOCK
@@ -77,14 +77,15 @@ while loop < 6: # there are 6 tables
 	groupID = table.read(1)
 	groupCNT = table.read(1)
 	tableVer = table.read(1)
+	data = table.read()
 	table.close()
 	
 	# capture received data (not reading first 4 bytes)
-	f = open("LLS.dat", "rb")
-	data = f.read()[4:]
-	# Unzip the LLS
-	#data = gzip.decompress(f.read()[4:])
-	f.close()
+	#f = open("LLS.dat", "rb")
+	#data = f.read()[4:]
+	## Unzip the LLS
+	##data = gzip.decompress(f.read()[4:])
+	#f.close()
 	
 	if '{0:08b}'.format(ord(tableID)) == '00000001':
 		slt = open("SLT.xml", "wb")
@@ -106,6 +107,10 @@ while loop < 6: # there are 6 tables
 		osd = open("OnScreenMessageNotification.xml", "wb")
 		osd.write(gzip.decompress(data))
 		osd.close()
+	elif '{0:08b}'.format(ord(tableID)) == '00000110':
+		cdt = open("CDT.xml", "wb")
+		cdt.write(gzip.decompress(data))
+		cdt.close()
 	elif '{0:08b}'.format(ord(tableID)) == '11111110':
 		tables = open("LLS.dat", "rb")
 		dummy = tables.read(4)
@@ -147,7 +152,7 @@ while loop < 6: # there are 6 tables
 				meta.write(gzip.decompress(payload))
 				meta.close()
 			i += 1
-			time.sleep(0.1)
+			#time.sleep(0.1)
 		
 		tables.close()
 	else:
@@ -155,5 +160,5 @@ while loop < 6: # there are 6 tables
 		meta.write(gzip.decompress(data))
 		meta.close()
 	loop += 1
-	time.sleep(0.1)
+	#time.sleep(0.1)
 sock.close()
