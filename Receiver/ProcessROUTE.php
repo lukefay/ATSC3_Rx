@@ -72,8 +72,8 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 #Start ROUTE Protocol operation by reading LLS @ 224.0.23.60:4937
 chdir('../Receiver/SLT_signalling');
 if (substr(php_uname(), 0, 7) == "Windows") {
-  #$pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python38-32/python.exe";
-  $pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python313/python.exe";
+  #$pyth="C:/Users/luke/AppData/Local/Programs/Python/Python38-32/python.exe";
+  $pyth="C:/Users/luke/AppData/Local/Programs/Python/Python313/python.exe";
 } else {
   $pyth="/usr/bin/python";
 }

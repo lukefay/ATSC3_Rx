@@ -13,7 +13,7 @@ header('Cache-Control: no-cache');
 // Kill any previous LLS
 exec("taskkill /IM python.exe /F");
 
-$pyth="C:/Users/1000049321/AppData/Local/Programs/Python/Python38-32/python.exe";
+$pyth="C:/Users/luke/AppData/Local/Programs/Python/Python38-32/python.exe";
 
 chdir('./Receiver/SLT_signalling');
 
