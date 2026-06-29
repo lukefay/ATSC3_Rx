@@ -15,13 +15,12 @@ Start a channel before
   </head>
 
   <body id="demopage">
-	<h3>ROUTE/DASH Player</h3>
-	
+	<h1>ROUTE/DASH Player</h1>
 	<div id="video-container" style="background-image: url(thumbs/background.png); height: 540px; width: 960px;">
 		<!-- Video -->
 		<video id="video" width="960" height="540" onplay="playEvent()">
 		  <p>
-		    Your browser doesn't support HTML5 video.
+		    Your browser doesn't support HTML5 HEVC video.
 		  </p>
 		</video>
 		<!-- Video Controls -->
@@ -41,8 +40,15 @@ Start a channel before
 			Channel : <select type="text" id="channel" onchange="start(channel.options[channel.selectedIndex].index+1)"></select>
 			<input type="hidden" id="box4"style="width:4px;">
 		</div>
+		<div id="security">
+			<!-- Button to trigger the function -->
+			<button onclick="revealText()">Signing Check</button>
+			<!-- Signature result element -->
+			<a id="signedTable" style="display: none;"><i>Signature <b><span id="SignErr"></span></b></i></a>
+		</div>
 	</div>
 	<a alt="Settings" id="image" href="ReceiverConfig/index.html"><img height="42" width="42" src="thumbs/settings.jpg" /></a>
+	<!-- Advertisement selection if internet connected
 	<p id="AdSel">Unicast</p> 
 	<div class="onoffswitch">
 	  <input onchange="checkthis(this)" type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked>
@@ -52,11 +58,88 @@ Start a channel before
 	  </label>
 	</div>
 	<div id="settingsDiv"></div>
+	-->
   </body>
 </html>
 
 <script src="./dash.all.min.js"></script>
 <script src="jquery-1.11.1.min.js"></script>
+<script>
+  function revealText() {
+    var text = document.getElementById("signedTable");
+    
+    // Browser-based JavaScript cannot directly touch the computer's 
+    // operating system to run local files due to strict sandbox security settings.
+    //
+    // If Python script runs fine in a terminal but throws errors 
+    // when called from PHP, it is usually due to environmental differences:
+    // 1. Permission Denied: The web server user (such as www-data or apache) often 
+    //    lacks permissions to execute the Python file or access specific system resources. 
+    //    Fix this by ensuring the script has executable permissions.
+    // 2. Missing Packages/Modules: PHP's system environment might not share the same $PATH 
+    //    or use the same sys.path as the standard terminal. Packages installed as the root 
+    //    or a standard user might be completely invisible to the web server's user.
+    
+    
+    //Check Table Signing
+    //fetch('ReceiverConfig/signingcheck.php')
+    //    .then(response => response.json())
+    //    .then(signingCode => {
+    //        console.log(signingCode);
+    //    })
+    //    .catch(error => console.error('Error fetching data:', error));
+    
+    $.ajax({
+        type: 'POST',
+        url: "ReceiverConfig/signingcheck.php",
+        datatype: "json"
+    }).done( function(e) {
+        signing = JSON.parse(e);
+        //console.log("**** Table Signing Error " + signing);
+        if (signing == 254) {
+            console.log("**** Table Signing missing CDT");
+            var Err = "CDT missing";
+            document.getElementById("SignErr").innerHTML = Err;
+        }
+        else if (signing == 253) {
+            console.log("**** Table Signing CDT permission error");
+            var Err = "CDT error";
+            document.getElementById("SignErr").innerHTML = Err;
+        }
+        else if (signing == 252) {
+            console.log("**** Table Signing CDT error");
+            var Err = "CDT error";
+            document.getElementById("SignErr").innerHTML = Err;
+        }
+        else if (signing == 251) {
+            console.log("**** Table Signing CDT is OLD");
+            var Err = "Signature is old";
+            document.getElementById("SignErr").innerHTML = Err;
+        }
+        else if (signing == 250) {
+            console.log("**** Table Signing SMT & CDT is OLD");
+            var Err = "Signature is old";
+            document.getElementById("SignErr").innerHTML = Err;
+        }
+        else if (signing == 100) {
+            console.log("**** Table Signing invalid");
+            var Err = "invalid";
+            document.getElementById("SignErr").innerHTML = Err;
+        }
+        else {
+            console.log("**** Table Signing valid");
+            var Err = "valid";
+            document.getElementById("SignErr").innerHTML = Err;
+        }
+    });
+    
+    if (text.style.display === "none" || text.style.display === "") {
+        text.style.display = "block"; // Changes from hidden to visible
+    } else {
+        text.style.display = "none";  // Hide text
+    }
+  }
+</script>
 <script type="text/javascript">
 	var player;
 	var udchannel = 1;
@@ -75,7 +158,7 @@ Start a channel before
 	
 	window.onload = function() {
 	//    document.getElementById("myonoffswitch").checked = ('<?php echo intval(file_get_contents("RcvConfig.txt")); ?>' == 2);	
-	    document.getElementById("myonoffswitch").checked = ('php echo intval(file_get_contents("RcvConfig.txt")); ' == 2);
+	//    document.getElementById("myonoffswitch").checked = ('php echo intval(file_get_contents("RcvConfig.txt")); ' == 2);
 	    fragmentLoadErrorCount = 0;
 		logger.clear();
 	    logger.log('Ready');
@@ -93,7 +176,7 @@ Start a channel before
 			//alternateLocation1 = "http://" + cacheIP + alternateLocation1;
 			//alternateLocation2 = "http://" + cacheIP + alternateLocation2;
 			//alternateLocationK = "http://" + cacheIP + alternateLocationK;
-		  
+				  
 			$.ajax({
 				type: 'POST',
 				url: "ReceiverConfig/setIP.php",
@@ -118,7 +201,7 @@ Start a channel before
 		$.ajax({
 			type: 'POST',
 			url: "readSLT.php",
-			datatype: "json",
+			datatype: "json"
 			//data: {channels: JSON.stringify(result)}
 		}).done( function(e) {
 			result = JSON.parse(e);
@@ -430,9 +513,9 @@ Start a channel before
 						'fastSwitchEnabled': true	// this is important if you see stuttering and random stalls
 					},
 					'delay': {
-						'liveDelayFragmentCount': 1,
+						'liveDelayFragmentCount': NaN,
 						'liveDelay': NaN,
-						'useSuggestedPresentationDelay': false
+						'useSuggestedPresentationDelay': true
 					}
 				}
 			});

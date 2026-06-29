@@ -6,7 +6,7 @@ Main script for starting ROUTE reception
 header('Content-Type: text/event-stream');
 # recommended to prevent caching of event data.
 header('Cache-Control: no-cache'); 
- 
+
 $micro_date = microtime();
 $date_array = explode(" ",$micro_date);
 $date = date("Y-m-d H:i:s",$date_array[1]);
@@ -118,9 +118,9 @@ if (substr(php_uname(), 0, 7) == "Windows") {
   $cmd="$FLUTEReceiver/flute -A -B:$DASHContent -m:$destIP -p:$port -t:0 -E -b:1 -Y:$encodingSymbolsPerPacket -v:0";
 }
 if (substr(php_uname(), 0, 7) == "Windows") {
-  pclose(popen("start /B ". $cmd, "r"));
+  pclose(popen("start /B /HIGH ". $cmd, "r"));
 } else {
-  exec($cmd . " > /dev/null &");
+  exec("nice -n -20 " . $cmd . " > /dev/null &");
   #$ret=exec($cmd . " > /dev/null &", $out, $err);
   #var_dump($ret);
   #var_dump($out);
@@ -236,7 +236,7 @@ $tuneInPeriodStart = 0;
 
 $MPDNode = &$periods[0]['node']->parentNode;
 
-$AST_BCST = $PTP - $ST_UTC - $Delay;
+$AST_BCST = $PTP - $ST_UTC + $Delay;
 file_put_contents ( "timelog.txt" , "Broadcast AST: " . $AST_BCST . "\r\n" , FILE_APPEND );
 
 $AST_SEC = new DateTime( 'now',  new DateTimeZone( 'UTC' ) );	/* initializer for availability start time */
@@ -263,9 +263,9 @@ file_put_contents ( "timelog.txt" , "TimeOffset: " . $deltaTimeASTTuneIn . ", Or
 
 $ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $Delay/4)) . "Z";
 #$ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() - $deltaTimeASTTuneIn)) . "Z";
-#$ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $deltaTimeASTTuneIn/4)) . "Z";
+#$ASTNew = date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $deltaTimeASTTuneIn)) . "Z";
 #$MPDNode->setAttribute("availabilityStartTime",date("Y-m-d H:i:s", ($originalAST->getTimestamp() + $deltaTimeASTTuneIn)) . "Z");    //Set AST to tune-in time
-$MPDNode->setAttribute("availabilityStartTime",str_replace(" ", "T", $ASTNew));    //Set AST to tune-in time
+#$MPDNode->setAttribute("availabilityStartTime",str_replace(" ", "T", $ASTNew));    //Set AST to tune-in time
 $MPDNode->setAttribute("minBufferTime",str_replace(" ", "T", "PT0S"));    // Remove minBufferTime
 
 $periodStart;   //Start of this period in the iteration
