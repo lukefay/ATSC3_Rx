@@ -21,10 +21,29 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 }
 
 chdir('../SLT_signalling');
+// Deletes all previous (.xml) files in the folder
+$files = glob('./*.xml'); 
+// Apply unlink to every found file
+array_map('unlink', $files); 
+
+// Deletes all previous (.dat) files in the folder
+$files = glob('./*.dat'); 
+// Apply unlink to every found file
+array_map('unlink', $files); 
+
+// Deletes all previous (.bin) files in the folder
+$files = glob('./*.bin'); 
+// Apply unlink to every found file
+array_map('unlink', $files); 
+
+// Deletes all previous (.pem) files in the folder
+$files = glob('./*.pem'); 
+// Apply unlink to every found file
+array_map('unlink', $files); 
 
 if (substr(php_uname(), 0, 7) == "Windows") {
   //pclose(popen("start \"bla\" \"" . $pyth . "\" " . escapeshellarg("receiver.py"), "r"));
-  pclose(popen("start /B ". $pyth . " receiver.py", "r"));
+  pclose(popen("start /B ". $pyth . " receiver.py > NUL 2>&1", "r"));
   //$WshShell = new COM("WScript.Shell");
   //$oExec = $WshShell->Run("$pyth receiver.py", 0, false);
 } else {
@@ -35,7 +54,7 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 
 if (substr(php_uname(), 0, 7) == "Windows") {
   //pclose(popen("start \"bla\" \"" . $pyth . "\" " . escapeshellarg("time.py"), "r"));
-  pclose(popen("start /B ". $pyth . " time.py", "r"));
+  pclose(popen("start /B ". $pyth . " time.py > NUL 2>&1", "r"));
   //$WshShell = new COM("WScript.Shell");
   //$oExec = $WshShell->Run("$pyth time.py", 0, false);
 } else {
@@ -55,7 +74,7 @@ if (substr(php_uname(), 0, 7) == "Windows") {
 chdir('../ReceiverConfig');
 
 // Have to modify the file to get the IP from the SLT.xml file itself.
-//$contents = file_get_contents("../../bin/SDP1.sdp") ;
+//$contents = file_get_contents("../../bin/SDP1.sdp");
 // Until we look at the STL, use local IP address
 if (substr(php_uname(), 0, 7) == "Windows") {
   $contents=shell_exec("ipconfig");
